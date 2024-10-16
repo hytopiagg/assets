@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "top": "minecraft:block/observer_top",
+    "front": "minecraft:block/dispenser_front",
+    "side": "minecraft:block/observer_side",
+	"bottom": "block/dispenser_bottom"
+  }
+}

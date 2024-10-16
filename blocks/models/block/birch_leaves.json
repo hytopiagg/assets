@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/leaves_no_tint",
+  "textures": {
+    "all": "minecraft:block/birch_leaves"
+  }
+}

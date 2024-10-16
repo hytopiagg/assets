@@ -1,0 +1,9 @@
+{
+    "parent": "block/chest",
+    "textures": {
+        "top": "blocks/wooden_chest_top",
+        "front": "blocks/wooden_chest_front",
+        "side": "blocks/wooden_chest_side",
+        "latch": "blocks/wooden_chest_latch"
+    }
+}
