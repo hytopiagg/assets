@@ -1,9 +1,0 @@
-{
-    "parent": "block/chest",
-    "textures": {
-        "top": "blocks/trapped_chest_top",
-        "front": "blocks/trapped_chest_front",
-        "side": "blocks/trapped_chest_side",
-        "latch": "blocks/trapped_chest_latch"
-    }
-}
