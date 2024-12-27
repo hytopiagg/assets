@@ -2,7 +2,7 @@
 
 - **`dump-archive`** - Use to dump anything and everything, and also to archive old models/files.
 - **`working`** - Used as a working-repo for in-progress assets.
-- **`release`** - Used for completed assets, ready to be added to the boilerplate asset-pack, or generally availible assets. ** Engine-ready assets only, models must be .GLTF!
+- **`export`** - Used for completed assets, ready to be added to the boilerplate asset-pack, or generally availible assets. ** Engine-ready assets only, models must be .GLTF!
 - **`boilerplate`** - A collection of assets to be delivered as the “base” assets for the Hytopia SDK. - Engine-ready assets only, models must be .GLTF!
     - models
         - entities
@@ -13,7 +13,7 @@
             - structures
         - items
     - blocks
-        - <Block Name>/<block texture>.png
+        - <Block Name> / <block texture>.png
     - textures
         - skybox/ <6 face textures, `-x.png`, `+x.png`, `-y.png`, `+y.png`, `-z.png`, `+z.png`>
     - ui
