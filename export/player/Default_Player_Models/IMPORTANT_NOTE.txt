@@ -1,0 +1,9 @@
+Do not export any player models here without the naming convention:
+
+Player_Model_v<VERSION>_<Sub-STYLE>
+
+
+Examples:
+
+Player_Model_v10_Bald
+Player_Model_V10_GrayBoy
