@@ -1,8 +1,6 @@
 HYTOPIA GAME ASSETS LICENSE (HGAL) v1.0
 ======================================
 
-**IMPORTANT NOTICE:**  This license is *not* legal advice.  You should consult a qualified attorney if you have questions about your particular use‑case.
-
 1. **Definitions**
    1.1 **"Assets"** means every file, model, texture, audio clip, animation, script, or other content distributed in this repository, including any modifications or derivative works you create.
    1.2 **"HYTOPIA Platform"** means the HYTOPIA user‑generated‑content gaming platform located at https://hytopia.com and any official HYTOPIA launcher, client, or first‑party service that allows players to access HYTOPIA games.
