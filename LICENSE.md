@@ -2,9 +2,9 @@ HYTOPIA GAME ASSETS LICENSE (HGAL) v1.0
 ======================================
 
 1. **Definitions**
-   1.1 **"Assets"** means every file, model, texture, audio clip, animation, script, or other content distributed in this repository, including any modifications or derivative works you create.
-   1.2 **"HYTOPIA Platform"** means the HYTOPIA user‑generated‑content gaming platform located at https://hytopia.com and any official HYTOPIA launcher, client, or first‑party service that allows players to access HYTOPIA games.
-   1.3 **"Game"** means interactive software that is designed to run *exclusively* on the HYTOPIA Platform.
+   * 1.1 **"Assets"** means every file, model, texture, audio clip, animation, script, or other content distributed in this repository, including any modifications or derivative works you create.
+   * 1.2 **"HYTOPIA Platform"** means the HYTOPIA user‑generated‑content gaming platform located at https://hytopia.com and any official HYTOPIA launcher, client, or first‑party service that allows players to access HYTOPIA games.
+   * 1.3 **"Game"** means interactive software that is designed to run *exclusively* on the HYTOPIA Platform.
 
 2. **Grant of License**
    Subject to your ongoing compliance with this License, the Licensor grants you a worldwide, royalty‑free, non‑transferable, non‑sublicensable right to:
@@ -40,8 +40,8 @@ HYTOPIA GAME ASSETS LICENSE (HGAL) v1.0
 10. **Attribution**
    If you publicly distribute a Game that includes the Assets, you must include the following notice in a reasonably prominent location (e.g., in‑game credits, "About" screen, or documentation):
    
-   > "Contains HYTOPIA‑licensed assets © [YEAR] HYTOPIA.  Used under the HYTOPIA Game Assets License."
+   > "Contains HYTOPIA‑licensed assets © 2024 HYTOPIA.  Used under the HYTOPIA Game Assets License."
 
 ---
-© [YEAR] HYTOPIA.  All rights reserved.
+© 2024 HYTOPIA.  All rights reserved.
 
