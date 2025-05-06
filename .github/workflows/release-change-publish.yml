@@ -1,0 +1,51 @@
+# .github/workflows/release-on-change.yml
+name: Auto-publish Release
+
+on:
+  push:
+    branches: [main]          # or your default branch
+    paths:                    # fire only if these paths changed
+      - 'release/**'          # matches any file under /release
+
+permissions:                 # GITHUB_TOKEN needs write perms to push the bump
+  contents: write
+
+jobs:
+  bump-and-publish:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. Check out code with a token that’s allowed to push
+      - uses: actions/checkout@v4
+
+      # 2. Install Node and authenticate to npm
+      - uses: actions/setup-node@v4      # Node 20-based action﻿:contentReference[oaicite:0]{index=0}
+        with:
+          node-version: 20
+          registry-url: https://registry.npmjs.org/
+          cache: 'npm'
+
+      # 3. Configure Git (so the commit looks tidy)
+      - run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      # 4. Bump the patch version inside release/package.json
+      - name: Increment patch version
+        working-directory: release
+        run: |
+          npm version patch --no-git-tag-version
+
+      # 5. Commit & push the version bump
+      - name: Commit version bump
+        run: |
+          git add release/package.json
+          git commit -m "chore(release): bump patch version [skip ci]"
+          git push
+
+      # 6. Publish the package to npm
+      - name: Publish to npm
+        working-directory: release
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+        run: npm publish --access public        # omit --access if the package is private
