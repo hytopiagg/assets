@@ -1,4 +1,4 @@
-# The assets Repo Structure
+# Repo Structure
 
 ### **assets/models**
 
