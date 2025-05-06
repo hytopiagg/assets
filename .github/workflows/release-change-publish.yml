@@ -24,6 +24,7 @@ jobs:
           node-version: 20
           registry-url: https://registry.npmjs.org/
           cache: 'npm'
+          cache-dependency-path: release/package-lock.json
 
       # 3. Configure Git (so the commit looks tidy)
       - run: |
