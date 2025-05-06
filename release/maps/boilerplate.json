@@ -3,207 +3,207 @@
     {
       "id": 1,
       "name": "bricks",
-      "textureUri": "Assets/blocks/bricks.png"
+      "textureUri": "assets/blocks/bricks.png"
     },
     {
       "id": 2,
       "name": "clay",
-      "textureUri": "Assets/blocks/clay.png"
+      "textureUri": "assets/blocks/clay.png"
     },
     {
       "id": 3,
       "name": "coal-ore",
-      "textureUri": "Assets/blocks/coal-ore.png"
+      "textureUri": "assets/blocks/coal-ore.png"
     },
     {
       "id": 4,
       "name": "cobblestone",
-      "textureUri": "Assets/blocks/cobblestone.png"
+      "textureUri": "assets/blocks/cobblestone.png"
     },
     {
       "id": 5,
       "name": "creep",
-      "textureUri": "Assets/blocks/creep.png"
+      "textureUri": "assets/blocks/creep.png"
     },
     {
       "id": 6,
       "name": "diamond-block",
-      "textureUri": "Assets/blocks/diamond-block.png"
+      "textureUri": "assets/blocks/diamond-block.png"
     },
     {
       "id": 7,
       "name": "diamond-ore",
-      "textureUri": "Assets/blocks/diamond-ore.png"
+      "textureUri": "assets/blocks/diamond-ore.png"
     },
     {
       "id": 8,
       "name": "dirt",
-      "textureUri": "Assets/blocks/dirt.png"
+      "textureUri": "assets/blocks/dirt.png"
     },
     {
       "id": 9,
       "name": "dragon-block",
-      "textureUri": "Assets/blocks/dragon-block"
+      "textureUri": "assets/blocks/dragon-block"
     },
     {
       "id": 10,
       "name": "dragons-stone",
-      "textureUri": "Assets/blocks/dragons-stone.png"
+      "textureUri": "assets/blocks/dragons-stone.png"
     },
     {
       "id": 11,
       "name": "emerald-block",
-      "textureUri": "Assets/blocks/emerald-block.png"
+      "textureUri": "assets/blocks/emerald-block.png"
     },
     {
       "id": 12,
       "name": "emerald-ore",
-      "textureUri": "Assets/blocks/emerald-ore.png"
+      "textureUri": "assets/blocks/emerald-ore.png"
     },
     {
       "id": 13,
       "name": "ghost-dirt",
-      "textureUri": "Assets/blocks/ghost-dirt.png"
+      "textureUri": "assets/blocks/ghost-dirt.png"
     },
     {
       "id": 14,
       "name": "glass",
-      "textureUri": "Assets/blocks/glass.png"
+      "textureUri": "assets/blocks/glass.png"
     },
     {
       "id": 15,
       "name": "gold-ore",
-      "textureUri": "Assets/blocks/gold-ore.png"
+      "textureUri": "assets/blocks/gold-ore.png"
     },
     {
       "id": 16,
       "name": "grass",
-      "textureUri": "Assets/blocks/grass"
+      "textureUri": "assets/blocks/grass"
     },
     {
       "id": 17,
       "name": "gravel",
-      "textureUri": "Assets/blocks/gravel.png"
+      "textureUri": "assets/blocks/gravel.png"
     },
     {
       "id": 18,
       "name": "ice",
-      "textureUri": "Assets/blocks/ice.png"
+      "textureUri": "assets/blocks/ice.png"
     },
     {
       "id": 19,
       "name": "infected-shadowrock-core",
-      "textureUri": "Assets/blocks/infected-shadowrock-core.png"
+      "textureUri": "assets/blocks/infected-shadowrock-core.png"
     },
     {
       "id": 20,
       "name": "infected-shadowrock",
-      "textureUri": "Assets/blocks/infected-shadowrock.png"
+      "textureUri": "assets/blocks/infected-shadowrock.png"
     },
     {
       "id": 21,
       "name": "iron-ore",
-      "textureUri": "Assets/blocks/iron-ore.png"
+      "textureUri": "assets/blocks/iron-ore.png"
     },
     {
       "id": 22,
       "name": "log",
-      "textureUri": "Assets/blocks/log"
+      "textureUri": "assets/blocks/log"
     },
     {
       "id": 23,
       "name": "mossy-coblestone",
-      "textureUri": "Assets/blocks/mossy-coblestone.png"
+      "textureUri": "assets/blocks/mossy-coblestone.png"
     },
     {
       "id": 24,
       "name": "nuit-leaves",
-      "textureUri": "Assets/blocks/nuit-leaves.png"
+      "textureUri": "assets/blocks/nuit-leaves.png"
     },
     {
       "id": 25,
       "name": "nuit",
-      "textureUri": "Assets/blocks/nuit.png"
+      "textureUri": "assets/blocks/nuit.png"
     },
     {
       "id": 26,
       "name": "oak-leaves",
-      "textureUri": "Assets/blocks/oak-leaves.png"
+      "textureUri": "assets/blocks/oak-leaves.png"
     },
     {
       "id": 27,
       "name": "oak-planks",
-      "textureUri": "Assets/blocks/oak-planks.png"
+      "textureUri": "assets/blocks/oak-planks.png"
     },
     {
       "id": 28,
       "name": "sand-light",
-      "textureUri": "Assets/blocks/sand-light.png"
+      "textureUri": "assets/blocks/sand-light.png"
     },
     {
       "id": 29,
       "name": "sand",
-      "textureUri": "Assets/blocks/sand.png"
+      "textureUri": "assets/blocks/sand.png"
     },
     {
       "id": 30,
       "name": "sandstone-light",
-      "textureUri": "Assets/blocks/sandstone-light.png"
+      "textureUri": "assets/blocks/sandstone-light.png"
     },
     {
       "id": 31,
       "name": "sandstone",
-      "textureUri": "Assets/blocks/sandstone.png"
+      "textureUri": "assets/blocks/sandstone.png"
     },
     {
       "id": 32,
       "name": "shadow-pebble",
-      "textureUri": "Assets/blocks/shadow-pebble.png"
+      "textureUri": "assets/blocks/shadow-pebble.png"
     },
     {
       "id": 33,
       "name": "shadowrock",
-      "textureUri": "Assets/blocks/shadowrock.png"
+      "textureUri": "assets/blocks/shadowrock.png"
     },
     {
       "id": 34,
       "name": "snow",
-      "textureUri": "Assets/blocks/snow.png"
+      "textureUri": "assets/blocks/snow.png"
     },
     {
       "id": 35,
       "name": "stone-bricks",
-      "textureUri": "Assets/blocks/stone-bricks.png"
+      "textureUri": "assets/blocks/stone-bricks.png"
     },
     {
       "id": 36,
       "name": "stone",
-      "textureUri": "Assets/blocks/stone.png"
+      "textureUri": "assets/blocks/stone.png"
     },
     {
       "id": 37,
       "name": "swirl-rune",
-      "textureUri": "Assets/blocks/swirl-rune.png"
+      "textureUri": "assets/blocks/swirl-rune.png"
     },
     {
       "id": 38,
       "name": "void-grass",
-      "textureUri": "Assets/blocks/void-grass"
+      "textureUri": "assets/blocks/void-grass"
     },
     {
       "id": 39,
       "name": "void-sand",
-      "textureUri": "Assets/blocks/void-sand.png"
+      "textureUri": "assets/blocks/void-sand.png"
     },
     {
       "id": 40,
       "name": "voidsoil",
-      "textureUri": "Assets/blocks/voidsoil.png"
+      "textureUri": "assets/blocks/voidsoil.png"
     },
     {
       "id": 41,
       "name": "water-still",
-      "textureUri": "Assets/blocks/water-still.png"
+      "textureUri": "assets/blocks/water-still.png"
     }
   ],
   "blocks": {
@@ -13556,7 +13556,7 @@
   },
   "entities": {
     "-33.576728078382104,0.5,2.9671598138218505": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -13573,7 +13573,7 @@
       }
     },
     "-35.7926023802176,1.5,0.6879509392689833": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -13590,7 +13590,7 @@
       }
     },
     "-31.808297824659682,0.5,0.5330644580417605": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -13607,7 +13607,7 @@
       }
     },
     "-29.41498835041974,0.5,4.020707044430874": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -13624,7 +13624,7 @@
       }
     },
     "-29,-0.5,4": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -13641,7 +13641,7 @@
       }
     },
     "-37.44705169571661,0.5,-5.302751649862533": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -13658,7 +13658,7 @@
       }
     },
     "-32.113126017782314,0.5,-4.993044730945169": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -13675,7 +13675,7 @@
       }
     },
     "-24.248659165115345,2.5,31.656207423491733": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -13692,7 +13692,7 @@
       }
     },
     "-22.234408301300196,2.5,29.77122060235706": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -13709,7 +13709,7 @@
       }
     },
     "-19.763836419725664,1.5,29.00517114959947": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -13726,7 +13726,7 @@
       }
     },
     "-26.83523964987339,1.5,24.56568648289924": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -13743,7 +13743,7 @@
       }
     },
     "-28.854364442223467,2.5,29.73677185929327": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -13760,7 +13760,7 @@
       }
     },
     "-33.32055254283986,1.5,29.68062991441487": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -13777,7 +13777,7 @@
       }
     },
     "-14.835149740756709,0.5,31.574892400809805": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -13794,7 +13794,7 @@
       }
     },
     "-18.773608278120747,0.5,26.160670835350025": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -13811,7 +13811,7 @@
       }
     },
     "17.04047722339755,2.5,30.256275410801376": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -13828,7 +13828,7 @@
       }
     },
     "9.592742404308817,0.5,24.461577803064582": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -13845,7 +13845,7 @@
       }
     },
     "15.717138164453672,2.5,24.884803908720905": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -13862,7 +13862,7 @@
       }
     },
     "13.739662433993594,2.5,30.31861965463814": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -13879,7 +13879,7 @@
       }
     },
     "10.731929241071022,1.5,29.75994681480294": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -13896,7 +13896,7 @@
       }
     },
     "13.199842119611198,1.5,33.96705434132478": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -13913,7 +13913,7 @@
       }
     },
     "13.848552808847813,0.5,42.91798214640039": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -13930,7 +13930,7 @@
       }
     },
     "7.04529003570199,0.5,34.54402350574419": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -13947,7 +13947,7 @@
       }
     },
     "25.674672930638827,1.5,17.823655754351407": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -13964,7 +13964,7 @@
       }
     },
     "25.127976455083303,1.5,19.281754505474773": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -13981,7 +13981,7 @@
       }
     },
     "25.38481335366998,1.5,14.85265220626071": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -13998,7 +13998,7 @@
       }
     },
     "22.58542931839471,0.5,13.297323530255223": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -14015,7 +14015,7 @@
       }
     },
     "35.783055849722444,0.5,27.682474659519933": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -14032,7 +14032,7 @@
       }
     },
     "40.48842133092242,1.5,26.634867153993053": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -14049,7 +14049,7 @@
       }
     },
     "40.8696099689436,1.5,24.512559575186188": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -14066,7 +14066,7 @@
       }
     },
     "39.85457528507027,0.5,20.78198759852186": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -14083,7 +14083,7 @@
       }
     },
     "43.26243432596158,1.5,18.650185191951344": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -14100,7 +14100,7 @@
       }
     },
     "42.082733562205476,3.5,5.737471726335691": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -14117,7 +14117,7 @@
       }
     },
     "42.82184744021686,2.5,9.19837045208877": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -14134,7 +14134,7 @@
       }
     },
     "37.69845864053298,0.5,10.847876599812707": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -14151,7 +14151,7 @@
       }
     },
     "43.371605218037416,2.5,-19.188941289140484": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -14168,7 +14168,7 @@
       }
     },
     "38.3656103590085,0.5,-23.019747490028692": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -14185,7 +14185,7 @@
       }
     },
     "37.515174979961095,0.5,-19.37116941655572": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -14202,7 +14202,7 @@
       }
     },
     "44.22099386358147,0.5,-13.043386063139783": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -14219,7 +14219,7 @@
       }
     },
     "43.659475026329964,1.5,-15.99501548009287": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -14236,7 +14236,7 @@
       }
     },
     "32.17193828600668,2.5,-36.61097845867108": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -14253,7 +14253,7 @@
       }
     },
     "30.37485851320431,1.5,-34.70791631599585": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -14270,7 +14270,7 @@
       }
     },
     "34.87313739057077,1.5,-36.36431525903062": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -14287,7 +14287,7 @@
       }
     },
     "34.67113729618634,0.5,-30.072895485786564": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -14304,7 +14304,7 @@
       }
     },
     "22.588020052463275,1.5,-38.71335404225112": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -14321,7 +14321,7 @@
       }
     },
     "22.934863929682265,1.5,-34.81464478743173": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -14338,7 +14338,7 @@
       }
     },
     "-8.725251624564873,2.5,-31.098684320257952": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -14355,7 +14355,7 @@
       }
     },
     "-3.6203759199956007,0.5,-32.81974213031656": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -14372,7 +14372,7 @@
       }
     },
     "-2.930786396374854,0.5,-29.885253887515326": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -14389,7 +14389,7 @@
       }
     },
     "-20.721326080162022,2.5,-34.15587741864984": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -14406,7 +14406,7 @@
       }
     },
     "-23.26443489055082,1.5,-29.736325507187463": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -14423,7 +14423,7 @@
       }
     },
     "-29.58412499864153,1.5,-35.17702970523062": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -14440,7 +14440,7 @@
       }
     },
     "-26.825213221737638,1.5,-32.88293479259906": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -14457,7 +14457,7 @@
       }
     },
     "-23.504543450553808,2.5,-34.46802683650897": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -14474,7 +14474,7 @@
       }
     },
     "-23.250004828275564,0.5,-27.25152214102701": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -14491,7 +14491,7 @@
       }
     },
     "-30.895590013162792,0.5,-27.80784823400233": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -14508,7 +14508,7 @@
       }
     },
     "-39.9289149323206,0.5,-20.124545113451365": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -14525,7 +14525,7 @@
       }
     },
     "41.145420745221365,0.5,-9.945248183939768": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -14542,7 +14542,7 @@
       }
     },
     "24.112766368731357,0.5,-22.172819611984472": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -14559,7 +14559,7 @@
       }
     },
     "-5.830809538879091,0.5,41.481696244202126": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -14576,7 +14576,7 @@
       }
     },
     "-2.665898511998206,0.5,23.610300415791713": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -14593,7 +14593,7 @@
       }
     },
     "-34.58771226034705,0.5,13.76357668686078": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -14610,7 +14610,7 @@
       }
     },
     "-24.422988204604025,0.5,12.457439444923711": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -14627,7 +14627,7 @@
       }
     },
     "-21.875513892175682,0.5,-13.383117582039233": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -14644,7 +14644,7 @@
       }
     },
     "8.689668906714138,0.5,-26.959401154793923": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -14661,7 +14661,7 @@
       }
     },
     "10.254708002204126,0.5,-42.9388454943245": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -14678,7 +14678,7 @@
       }
     },
     "14.438195631612345,0.5,-40.550279083047656": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -14695,7 +14695,7 @@
       }
     },
     "45.2175198160487,0.5,-31.012625823314227": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -14712,7 +14712,7 @@
       }
     },
     "32.65812027692824,0.5,41.742980678885445": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -14729,7 +14729,7 @@
       }
     },
     "35.2188465211118,0.5,38.99469674581924": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -14746,7 +14746,7 @@
       }
     },
     "30.495768162354523,0.5,37.388699602091": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -14763,7 +14763,7 @@
       }
     },
     "30.010557845553684,0.5,42.79786166447609": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -14780,7 +14780,7 @@
       }
     },
     "-22.769598271011358,0.5,44.18994613048842": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -14797,7 +14797,7 @@
       }
     },
     "-0.3192990263562123,0.5,30.335201556235816": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -14814,7 +14814,7 @@
       }
     },
     "-44.187185238889924,0.5,35.5862280087576": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -14831,7 +14831,7 @@
       }
     },
     "-44.40950824392918,0.5,27.080472851813173": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -14848,7 +14848,7 @@
       }
     },
     "-46.31155006447294,0.5,23.5996597030544": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -14865,7 +14865,7 @@
       }
     },
     "-46.045222495837045,0.5,20.41701619417309": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -14882,7 +14882,7 @@
       }
     },
     "-45.55898668238427,0.5,17.17453212285046": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -14899,7 +14899,7 @@
       }
     },
     "-44.39113959167415,0.5,20.525338419628277": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -14916,7 +14916,7 @@
       }
     },
     "-45.528482281465415,0.5,21.878049068558056": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -14933,7 +14933,7 @@
       }
     },
     "-42.039470562255666,0.5,46.69454768411036": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -14950,7 +14950,7 @@
       }
     },
     "-38.0054846321758,0.5,47.25494638518782": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -14967,7 +14967,7 @@
       }
     },
     "-37.12223456437563,0.5,47.57970105083936": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -14984,7 +14984,7 @@
       }
     },
     "-38.30281019125972,0.5,43.51967617968802": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -15001,7 +15001,7 @@
       }
     },
     "-40.159085847065406,0.5,45.442103636331": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -15018,7 +15018,7 @@
       }
     },
     "-33.95232164452893,0.5,47.35963032776813": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -15035,7 +15035,7 @@
       }
     },
     "-30.500485905239742,0.5,46.60896254056609": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -15052,7 +15052,7 @@
       }
     },
     "-9.923316072449799,0.5,47.247480016310206": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -15069,7 +15069,7 @@
       }
     },
     "-7.1696371709825435,0.5,46.49113496475152": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -15086,7 +15086,7 @@
       }
     },
     "-8.516259311814848,0.5,44.375447886776925": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -15103,7 +15103,7 @@
       }
     },
     "-8.657101800440106,0.5,45.95083870036394": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -15120,7 +15120,7 @@
       }
     },
     "46.72997585938583,0.5,33.665203616556404": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -15137,7 +15137,7 @@
       }
     },
     "42.1130899061974,0.5,32.95299088473335": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -15154,7 +15154,7 @@
       }
     },
     "47.74619365232858,0.5,36.72122823673969": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -15171,7 +15171,7 @@
       }
     },
     "42.844787004632366,0.5,36.821188430569826": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -15188,7 +15188,7 @@
       }
     },
     "47.08485021627955,0.5,-10.781541384885603": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -15205,7 +15205,7 @@
       }
     },
     "45.63388021295067,0.5,-8.68107980906536": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -15222,7 +15222,7 @@
       }
     },
     "43.2304810794605,0.5,-45.15815575393801": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -15239,7 +15239,7 @@
       }
     },
     "45.7836461852134,0.5,-45.00748233685621": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -15256,7 +15256,7 @@
       }
     },
     "41.51875891178355,0.5,-40.082306523228006": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -15273,7 +15273,7 @@
       }
     },
     "41.938692030939094,0.5,-45.43112419796738": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -15290,7 +15290,7 @@
       }
     },
     "-1.3134637471013626,0.5,-45.63496373427366": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -15307,7 +15307,7 @@
       }
     },
     "-0.7581447125051284,0.5,-42.89605302305657": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -15324,7 +15324,7 @@
       }
     },
     "2.4215438813209573,0.5,-41.75075314706608": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -15341,7 +15341,7 @@
       }
     },
     "3.2564063149539297,0.5,-45.46851737692715": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -15358,7 +15358,7 @@
       }
     },
     "5.885463147684295,0.5,-41.810436195187606": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -15375,7 +15375,7 @@
       }
     },
     "-18.576262004206356,0.5,-46.15578642607585": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -15392,7 +15392,7 @@
       }
     },
     "-44.533923219990996,0.5,-8.803780846509671": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -15409,7 +15409,7 @@
       }
     },
     "-41.00115875751369,0.5,-10.311043009718706": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -15426,7 +15426,7 @@
       }
     },
     "-42.32113002511595,0.5,-12.73763426521838": {
-      "modelUri": "Assets/models/environment/basic-tree.gltf",
+      "modelUri": "assets/models/environment/basic-tree.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -15443,7 +15443,7 @@
       }
     },
     "43.162303489864954,0.5,-7.616539051650553": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -15460,7 +15460,7 @@
       }
     },
     "42.233448521482075,0.5,-12.548852869879855": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -15477,7 +15477,7 @@
       }
     },
     "39.922465602402326,0.5,-11.643764005906045": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -15494,7 +15494,7 @@
       }
     },
     "42.69944096040761,0.5,-11.321253984497265": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -15511,7 +15511,7 @@
       }
     },
     "44.6837551925219,0.5,-11.300829681494358": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -15528,7 +15528,7 @@
       }
     },
     "40.641644712778614,0.5,-13.623079159796925": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -15545,7 +15545,7 @@
       }
     },
     "42.04209306462561,0.5,-13.873576201993753": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -15562,7 +15562,7 @@
       }
     },
     "40.051326303419906,0.5,-14.220745324151755": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -15579,7 +15579,7 @@
       }
     },
     "39.102754790675036,0.5,-14.246352382862053": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -15596,7 +15596,7 @@
       }
     },
     "40.11183068334781,0.5,-13.206246231897289": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -15613,7 +15613,7 @@
       }
     },
     "41.48785839897183,0.5,-12.647848731257042": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -15630,7 +15630,7 @@
       }
     },
     "44.05172229112108,0.5,-12.975543009363903": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -15647,7 +15647,7 @@
       }
     },
     "45.05780318732437,0.5,-12.112125051971832": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -15664,7 +15664,7 @@
       }
     },
     "44.11227557419791,0.5,-12.52585461975668": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -15681,7 +15681,7 @@
       }
     },
     "43.75396006329796,0.5,-13.328845796573122": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -15698,7 +15698,7 @@
       }
     },
     "44.41072705425267,0.5,-13.598101534895362": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -15715,7 +15715,7 @@
       }
     },
     "47.11884268688271,0.5,-10.902537974192573": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -15732,7 +15732,7 @@
       }
     },
     "43.09036065976238,1.5,1.49": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -15749,7 +15749,7 @@
       }
     },
     "41.2055747091585,0.5,-0.51": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -15766,7 +15766,7 @@
       }
     },
     "39.08953760989944,0.5,-1.1674375217450432": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -15783,7 +15783,7 @@
       }
     },
     "43.92218585831223,2.5,-2.4742190339037915": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -15800,7 +15800,7 @@
       }
     },
     "42.010003018687,1.5,1.49": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -15817,7 +15817,7 @@
       }
     },
     "42.49,2.5,3.5185829811910523": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -15834,7 +15834,7 @@
       }
     },
     "41.132828595260975,3.5,6.209480228714412": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -15851,7 +15851,7 @@
       }
     },
     "38.49,0.5,5.728297752128039": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -15868,7 +15868,7 @@
       }
     },
     "37.09188171945161,0.5,0.900538789114254": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -15885,7 +15885,7 @@
       }
     },
     "41.101447902573,0.5,-0.51": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -15902,7 +15902,7 @@
       }
     },
     "42.62695849171219,1.5,-0.6605946417709401": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -15919,7 +15919,7 @@
       }
     },
     "40.9971015864447,2.5,3.7822981644972096": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -15936,7 +15936,7 @@
       }
     },
     "39.85785367807837,2.5,7.70525238721557": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -15953,7 +15953,7 @@
       }
     },
     "40.52754493433406,1.5,10.353310492600269": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -15970,7 +15970,7 @@
       }
     },
     "37.125276940923655,1.5,6.010613368878879": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -15987,7 +15987,7 @@
       }
     },
     "38.66918292808911,1.5,3.3630952358381094": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -16004,7 +16004,7 @@
       }
     },
     "35.69345232797018,0.5,4.446585219257997": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -16021,7 +16021,7 @@
       }
     },
     "36.08592162599293,0.5,12.392593516703993": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -16038,7 +16038,7 @@
       }
     },
     "43.58172441595744,0.5,17.86416529848793": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -16055,7 +16055,7 @@
       }
     },
     "45.57331345882834,0.5,18.899233653297813": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -16072,7 +16072,7 @@
       }
     },
     "41.49,1.5,22.557634794041114": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -16089,7 +16089,7 @@
       }
     },
     "39.49,0.5,24.403384688845975": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -16106,7 +16106,7 @@
       }
     },
     "38.88181375481648,0.5,19.76600152993398": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -16123,7 +16123,7 @@
       }
     },
     "39.12498669870183,0.5,19.64326835062878": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -16140,7 +16140,7 @@
       }
     },
     "41.43628121496407,0.5,16.993131358091325": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -16157,7 +16157,7 @@
       }
     },
     "37.71013122697647,0.5,21.107928812326826": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -16174,7 +16174,7 @@
       }
     },
     "38.49,0.5,27.49585218592277": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -16191,7 +16191,7 @@
       }
     },
     "30.87819377219808,0.5,18.49": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -16208,7 +16208,7 @@
       }
     },
     "29.016323593233608,1.5,18.303862019705633": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -16225,7 +16225,7 @@
       }
     },
     "28.939304129221796,1.5,21.027155024955512": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -16242,7 +16242,7 @@
       }
     },
     "28.954417711006748,0.5,15.490000000000004": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -16259,7 +16259,7 @@
       }
     },
     "27.895779281937845,0.5,13.24192199840493": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -16276,7 +16276,7 @@
       }
     },
     "25.660093987034802,0.5,14.195127678239835": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -16293,7 +16293,7 @@
       }
     },
     "26.059628664801608,0.5,14.49": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -16310,7 +16310,7 @@
       }
     },
     "27.52141920545974,1.5,16.81091381593451": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -16327,7 +16327,7 @@
       }
     },
     "30.301330895500904,0.5,15.382338057703976": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -16344,7 +16344,7 @@
       }
     },
     "28.261332531251085,0.5,10.943267319140176": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -16361,7 +16361,7 @@
       }
     },
     "24.733028309280012,0.5,12.216307257589104": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -16378,7 +16378,7 @@
       }
     },
     "22.64697446395754,0.5,12.488369539931778": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -16395,7 +16395,7 @@
       }
     },
     "21.866531028568062,0.5,18.56692859752961": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -16412,7 +16412,7 @@
       }
     },
     "24.005689336379334,1.5,16.510699278553265": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -16429,7 +16429,7 @@
       }
     },
     "24.07194095997415,0.5,12.5198113708255": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -16446,7 +16446,7 @@
       }
     },
     "26.37946491665276,0.5,10.732710961938555": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -16463,7 +16463,7 @@
       }
     },
     "32.58807060548478,0.5,21.295483734090084": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -16480,7 +16480,7 @@
       }
     },
     "32.6603175770794,0.5,32.26678594965155": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -16497,7 +16497,7 @@
       }
     },
     "34.23640685759368,0.5,34.89037786745245": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -16514,7 +16514,7 @@
       }
     },
     "40.3212068238895,0.5,41.41630817658077": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -16531,7 +16531,7 @@
       }
     },
     "31.958445205011838,0.5,35.55214023509041": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -16548,7 +16548,7 @@
       }
     },
     "31.587313060931166,0.5,38.33368385018298": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -16565,7 +16565,7 @@
       }
     },
     "18.575406679673627,2.5,29.610822409816894": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -16582,7 +16582,7 @@
       }
     },
     "21.721192213425585,1.5,28.49": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -16599,7 +16599,7 @@
       }
     },
     "21.101658580737872,1.5,26.49": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -16616,7 +16616,7 @@
       }
     },
     "17.414705084857545,2.5,25.746913066169007": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -16633,7 +16633,7 @@
       }
     },
     "18.506289076035525,2.5,26.33305443948125": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -16650,7 +16650,7 @@
       }
     },
     "20.614873991096754,2.5,26.9062921055768": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -16667,7 +16667,7 @@
       }
     },
     "24.06669700871965,0.5,26.49": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -16684,7 +16684,7 @@
       }
     },
     "22.851843671496344,0.5,25.49": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -16701,7 +16701,7 @@
       }
     },
     "19.076359425992994,0.5,22.49": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -16718,7 +16718,7 @@
       }
     },
     "18.275565400877408,0.5,19.732932971693803": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -16735,7 +16735,7 @@
       }
     },
     "18.62390278125001,0.5,20.527237483273925": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -16752,7 +16752,7 @@
       }
     },
     "21.169519515828206,0.5,22.35584004763944": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -16769,7 +16769,7 @@
       }
     },
     "15.55995722590358,0.5,20.47944611631663": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -16786,7 +16786,7 @@
       }
     },
     "16.071422707539735,0.5,22.49": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -16803,7 +16803,7 @@
       }
     },
     "18.00477168370674,2.5,24.8278591979108": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -16820,7 +16820,7 @@
       }
     },
     "18.836656083211423,2.5,28.798027693115134": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -16837,7 +16837,7 @@
       }
     },
     "18.67493089689917,1.5,37.96798500369612": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -16854,7 +16854,7 @@
       }
     },
     "18.184631597694764,1.5,38.833122866472074": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -16871,7 +16871,7 @@
       }
     },
     "19.850994867891288,1.5,38.3161847799193": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -16888,7 +16888,7 @@
       }
     },
     "23.499802747312927,0.5,40.66569749990302": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -16905,7 +16905,7 @@
       }
     },
     "24.333523389995865,1.5,32.133488137179754": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -16922,7 +16922,7 @@
       }
     },
     "23.41258757081375,1.5,28.637709961107582": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -16939,7 +16939,7 @@
       }
     },
     "14.829017452249007,2.5,24.136542844492773": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -16956,7 +16956,7 @@
       }
     },
     "9.733566048453447,1.5,28.682566433000247": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -16973,7 +16973,7 @@
       }
     },
     "9.875049511002576,1.5,28.80903870140638": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -16990,7 +16990,7 @@
       }
     },
     "-18.3386219464673,0.5,39.295105075268054": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -17007,7 +17007,7 @@
       }
     },
     "-14.895343144802293,0.5,35.00354837857535": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -17024,7 +17024,7 @@
       }
     },
     "-14.025955884707567,0.5,29.873474848491416": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -17041,7 +17041,7 @@
       }
     },
     "-14.397701619455251,0.5,30.112495365809927": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -17058,7 +17058,7 @@
       }
     },
     "-15.961046042195889,0.5,35.97496160972258": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -17075,7 +17075,7 @@
       }
     },
     "-22.555941847752216,1.5,38.01231800307001": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -17092,7 +17092,7 @@
       }
     },
     "-25.038153299631915,1.5,37.873862812117025": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -17109,7 +17109,7 @@
       }
     },
     "-24.022682493694298,2.5,33.680247063789224": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -17126,7 +17126,7 @@
       }
     },
     "-20.49,1.5,31.060028359884107": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -17143,7 +17143,7 @@
       }
     },
     "-20.227175960900784,1.5,29.7585882759195": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -17160,7 +17160,7 @@
       }
     },
     "-16.74776103217267,0.5,27.921128598675054": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -17177,7 +17177,7 @@
       }
     },
     "-20.49,0.5,26.281742266546566": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -17194,7 +17194,7 @@
       }
     },
     "-24.115379293224052,0.5,23.063036184397074": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -17211,7 +17211,7 @@
       }
     },
     "-24.374311126114186,2.5,26.58067120784814": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -17228,7 +17228,7 @@
       }
     },
     "-23.266102438528414,2.5,28.501252728671": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -17245,7 +17245,7 @@
       }
     },
     "-24.72786662406194,2.5,29.736931318919336": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -17262,7 +17262,7 @@
       }
     },
     "-27.39652480491222,2.5,30.99565643174718": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -17279,7 +17279,7 @@
       }
     },
     "-29.37319650266639,2.5,33.326295764432395": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -17296,7 +17296,7 @@
       }
     },
     "-29.96175653193151,1.5,36.29024639031071": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -17313,7 +17313,7 @@
       }
     },
     "-26.086882556783266,1.5,36.340822497848826": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -17330,7 +17330,7 @@
       }
     },
     "-25.454900930005643,1.5,37.46053200349253": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -17347,7 +17347,7 @@
       }
     },
     "-28.264708916291482,0.5,41.51156317346878": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -17364,7 +17364,7 @@
       }
     },
     "-30.836905543884612,0.5,40.78202708321912": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -17381,7 +17381,7 @@
       }
     },
     "-32.25614641464594,0.5,39.145023747991615": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -17398,7 +17398,7 @@
       }
     },
     "-33.70027965953835,1.5,27.578546009401798": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -17415,7 +17415,7 @@
       }
     },
     "-32.8524095097123,1.5,27.25736988725303": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -17432,7 +17432,7 @@
       }
     },
     "-27.125921241202082,1.5,25.762216111864923": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -17449,7 +17449,7 @@
       }
     },
     "-24.203669884023334,1.5,24.641979424503894": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -17466,7 +17466,7 @@
       }
     },
     "-26.905614517499295,0.5,22.843912351538773": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -17483,7 +17483,7 @@
       }
     },
     "-32.05943786033807,0.5,21.87113976474736": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -17500,7 +17500,7 @@
       }
     },
     "-33.23961639763056,1.5,26.561677094074355": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -17517,7 +17517,7 @@
       }
     },
     "-34.7554698656071,0.5,22.865767380684332": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -17534,7 +17534,7 @@
       }
     },
     "-26.251982516314406,0.5,21.315841388203623": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -17551,7 +17551,7 @@
       }
     },
     "-22.80859421216527,0.5,23.095794386624778": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -17568,7 +17568,7 @@
       }
     },
     "-34.2146174610164,0.5,9.56802324581494": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -17585,7 +17585,7 @@
       }
     },
     "-33.291897524213844,0.5,10.913448212098565": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -17602,7 +17602,7 @@
       }
     },
     "-32.44445222069202,0.5,17.015004513071208": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -17619,7 +17619,7 @@
       }
     },
     "-34.163529688355695,0.5,17.98537827969653": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -17636,7 +17636,7 @@
       }
     },
     "-41.417069869202095,0.5,14.130896053520743": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -17653,7 +17653,7 @@
       }
     },
     "-42.127694207867506,0.5,8.82445465156123": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -17670,7 +17670,7 @@
       }
     },
     "-32.52145797311125,0.5,8.3022073591489": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -17687,7 +17687,7 @@
       }
     },
     "-39.649956702882456,0.5,6.030091197872132": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -17704,7 +17704,7 @@
       }
     },
     "-42.23213180073533,0.5,1.39618232273601": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -17721,7 +17721,7 @@
       }
     },
     "-43.27047192818256,0.5,-1.471808249282894": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -17738,7 +17738,7 @@
       }
     },
     "-38.02461586306619,1.5,0.7444039720727424": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -17755,7 +17755,7 @@
       }
     },
     "-36.862718817291935,1.5,1.7203889287555914": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -17772,7 +17772,7 @@
       }
     },
     "-38.74428517116835,1.5,0.33801213528465723": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -17789,7 +17789,7 @@
       }
     },
     "-38.02266241852207,1.5,-0.23678491664414736": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -17806,7 +17806,7 @@
       }
     },
     "-39.457296385693404,0.5,-2.3378292615537912": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -17823,7 +17823,7 @@
       }
     },
     "-41.90048169561747,0.5,1.215961862413101": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -17840,7 +17840,7 @@
       }
     },
     "-40.53926990321367,0.5,3.9850749159680516": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -17857,7 +17857,7 @@
       }
     },
     "-38.613371879403395,1.5,2.205373178381924": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -17874,7 +17874,7 @@
       }
     },
     "-36.93551991932291,1.5,-1.280752510910931": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -17891,7 +17891,7 @@
       }
     },
     "-37.57996033473942,1.5,-2.44131261215734": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -17908,7 +17908,7 @@
       }
     },
     "-40.231701125021075,0.5,-3.0009498973658495": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -17925,7 +17925,7 @@
       }
     },
     "-38.592448504389445,0.5,-6.379977790985556": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -17942,7 +17942,7 @@
       }
     },
     "-33.3258398514596,0.5,-8.355502958761182": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -17959,7 +17959,7 @@
       }
     },
     "-35.598178922170256,1.5,-3.818442629255772": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -17976,7 +17976,7 @@
       }
     },
     "-42.83314288190457,0.5,-19.731900241005214": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -17993,7 +17993,7 @@
       }
     },
     "-35.70076431241261,0.5,-32.592463620090584": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -18010,7 +18010,7 @@
       }
     },
     "-35.00699342402491,0.5,-36.80038704400618": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -18027,7 +18027,7 @@
       }
     },
     "-31.339958589215467,1.5,-36.63739291529653": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -18044,7 +18044,7 @@
       }
     },
     "-31.81280935002718,1.5,-32.50066814251598": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -18061,7 +18061,7 @@
       }
     },
     "-33.68493469468053,0.5,-30.330826328559652": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -18078,7 +18078,7 @@
       }
     },
     "-30.761411883655256,0.5,-31.49": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -18095,7 +18095,7 @@
       }
     },
     "-29.245337645391206,1.5,-32.26394658767916": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -18112,7 +18112,7 @@
       }
     },
     "-27.19697257396255,1.5,-31.13157597351232": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -18129,7 +18129,7 @@
       }
     },
     "-27.001600491249036,0.5,-28.49": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -18146,7 +18146,7 @@
       }
     },
     "-28.412391061742383,0.5,-26.055938199118167": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -18163,7 +18163,7 @@
       }
     },
     "-28.201929980334118,1.5,-30.878871295619536": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -18180,7 +18180,7 @@
       }
     },
     "-30.005490021816122,1.5,-33.68249325775234": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -18197,7 +18197,7 @@
       }
     },
     "-31.704711266293984,1.5,-35.23864694991512": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -18214,7 +18214,7 @@
       }
     },
     "-30.89456962317588,1.5,-40.8636301897253": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -18231,7 +18231,7 @@
       }
     },
     "-26.240951580773768,0.5,-43.900104327031": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -18248,7 +18248,7 @@
       }
     },
     "-30.026413076476036,1.5,-43.178409146620645": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -18265,7 +18265,7 @@
       }
     },
     "-35.33110098174324,0.5,-38.934002578107005": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -18282,7 +18282,7 @@
       }
     },
     "-36.87071039085839,0.5,-33.732714472013484": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -18299,7 +18299,7 @@
       }
     },
     "-38.76410884735479,0.5,-31.123974879317906": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -18316,7 +18316,7 @@
       }
     },
     "-35.44325538934828,0.5,-29.126871972995268": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -18333,7 +18333,7 @@
       }
     },
     "-34.81765696089829,0.5,-28.533121540912944": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -18350,7 +18350,7 @@
       }
     },
     "-6.847244243066221,0.5,-39.93027036048151": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -18367,7 +18367,7 @@
       }
     },
     "-10.287355631339523,0.5,-38.16938072592245": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -18384,7 +18384,7 @@
       }
     },
     "-11.38124212864302,2.5,-31.116285878401897": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -18401,7 +18401,7 @@
       }
     },
     "-10.7922023101489,2.5,-30.7735161047169": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -18418,7 +18418,7 @@
       }
     },
     "-12.451930023628183,1.5,-33.07422502902317": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -18435,7 +18435,7 @@
       }
     },
     "-15.318843945376287,0.5,-31.822922545115368": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -18452,7 +18452,7 @@
       }
     },
     "-15.38022641338045,0.5,-29.56760299676894": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -18469,7 +18469,7 @@
       }
     },
     "-13.537092539221387,0.5,-28.04302914495919": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -18486,7 +18486,7 @@
       }
     },
     "-11.563015300593335,0.5,-27.880877892519308": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -18503,7 +18503,7 @@
       }
     },
     "-15.785101352150582,0.5,-27.848152358111495": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -18520,7 +18520,7 @@
       }
     },
     "-14.840323757183304,0.5,-26.098884235188606": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -18537,7 +18537,7 @@
       }
     },
     "-10.192248704399944,0.5,-26.412480453589136": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -18554,7 +18554,7 @@
       }
     },
     "-7.7002739349864555,0.5,-26.31691771704361": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -18571,7 +18571,7 @@
       }
     },
     "-8.39690174150117,1.5,-28.761626443833947": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -18588,7 +18588,7 @@
       }
     },
     "-8.457955880430449,1.5,-28.885427962705062": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -18605,7 +18605,7 @@
       }
     },
     "19.940739800797008,1.5,-38.040930528535064": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -18622,7 +18622,7 @@
       }
     },
     "18.170850097282038,0.5,-37.55988709018733": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -18639,7 +18639,7 @@
       }
     },
     "17.309283831495303,0.5,-37.702831088637424": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -18656,7 +18656,7 @@
       }
     },
     "15.824002876163817,0.5,-34.26738304649967": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -18673,7 +18673,7 @@
       }
     },
     "20.405726157971472,1.5,-36.00287465222063": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -18690,7 +18690,7 @@
       }
     },
     "21.31826613901142,1.5,-36.337187738303896": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -18707,7 +18707,7 @@
       }
     },
     "18.192943290733393,0.5,-32.30500321408099": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -18724,7 +18724,7 @@
       }
     },
     "16.563654867570826,0.5,-36.61900522494355": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -18741,7 +18741,7 @@
       }
     },
     "17.099577272551205,0.5,-39.032852710738396": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -18758,7 +18758,7 @@
       }
     },
     "19.33832971287712,0.5,-44.15137707881588": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -18775,7 +18775,7 @@
       }
     },
     "16.689183109863027,0.5,-45.4805844802121": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -18792,7 +18792,7 @@
       }
     },
     "11.0941797163258,0.5,-41.1962618008321": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -18809,7 +18809,7 @@
       }
     },
     "20.539452362264036,0.5,-47.4564125377175": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -18826,7 +18826,7 @@
       }
     },
     "24.218565634243177,0.5,-44.42266853803225": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -18843,7 +18843,7 @@
       }
     },
     "21.10213350332765,1.5,-40.45466338253622": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -18860,7 +18860,7 @@
       }
     },
     "21.199371619966755,1.5,-36.93688231807554": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -18877,7 +18877,7 @@
       }
     },
     "23.41057085523794,1.5,-36.22470729737371": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -18894,7 +18894,7 @@
       }
     },
     "26.07509728954818,1.5,-37.098865585999526": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -18911,7 +18911,7 @@
       }
     },
     "30.688092246112564,2.5,-38.707247043251016": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -18928,7 +18928,7 @@
       }
     },
     "32.34060801789323,2.5,-39.22396324741276": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -18945,7 +18945,7 @@
       }
     },
     "29.655949618360903,2.5,-37.9629047797114": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -18962,7 +18962,7 @@
       }
     },
     "28.555523295533504,1.5,-37.178391482040304": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -18979,7 +18979,7 @@
       }
     },
     "29.089539320480107,1.5,-36.66021307516815": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -18996,7 +18996,7 @@
       }
     },
     "31.92368551198035,2.5,-38.047688734198935": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -19013,7 +19013,7 @@
       }
     },
     "32.63787178341868,2.5,-38.002851656620564": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -19030,7 +19030,7 @@
       }
     },
     "30.544200236745326,1.5,-36.13502845681715": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -19047,7 +19047,7 @@
       }
     },
     "29.382410637105053,1.5,-34.98897332649205": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -19064,7 +19064,7 @@
       }
     },
     "28.36538407306641,0.5,-32.230495393567665": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -19081,7 +19081,7 @@
       }
     },
     "28.32034956100837,0.5,-31.913480654909144": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -19098,7 +19098,7 @@
       }
     },
     "25.16581584013187,0.5,-32.058460241802564": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -19115,7 +19115,7 @@
       }
     },
     "28.60825052257713,0.5,-30.578449436459596": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -19132,7 +19132,7 @@
       }
     },
     "34.37242023818882,0.5,-32.24004645113269": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -19149,7 +19149,7 @@
       }
     },
     "37.989304086153446,0.5,-34.281118696517126": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -19166,7 +19166,7 @@
       }
     },
     "44.14038242846431,0.5,-35.10028004033466": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -19183,7 +19183,7 @@
       }
     },
     "37.29010743446722,0.5,-42.9369845898928": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -19200,7 +19200,7 @@
       }
     },
     "28.48569249171095,4.5,-41.36634800489607": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -19217,7 +19217,7 @@
       }
     },
     "44.15829671224851,0.5,-23.377412955705893": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -19234,7 +19234,7 @@
       }
     },
     "39.02081282299774,0.5,-27.176789037987053": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -19251,7 +19251,7 @@
       }
     },
     "34.35606385913316,0.5,-25.030205168683484": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -19268,7 +19268,7 @@
       }
     },
     "36.535606839870944,0.5,-21.04033870962782": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -19285,7 +19285,7 @@
       }
     },
     "40.83154721150935,2.5,-19.59565595337303": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -19302,7 +19302,7 @@
       }
     },
     "42.58105339815992,2.5,-19.818881245792177": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -19319,7 +19319,7 @@
       }
     },
     "46.14316725330288,0.5,-22.106205222361247": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -19336,7 +19336,7 @@
       }
     },
     "42.55725200827245,1.5,-22.399487774073336": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -19353,7 +19353,7 @@
       }
     },
     "35.73790150973686,0.5,-23.115345861366485": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -19370,7 +19370,7 @@
       }
     },
     "34.12988142597025,0.5,-18.84559370519677": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -19387,7 +19387,7 @@
       }
     },
     "36.335650618433604,0.5,-14.63270312066727": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -19404,7 +19404,7 @@
       }
     },
     "40.535320555432584,0.5,-12.057510891088558": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -19421,7 +19421,7 @@
       }
     },
     "34.51862863066056,0.5,-7.242593123396851": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -19438,7 +19438,7 @@
       }
     },
     "35.40941940350238,0.5,-2.966181568696129": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -19455,7 +19455,7 @@
       }
     },
     "34.99310891763831,0.5,-6.102849968079511": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -19472,7 +19472,7 @@
       }
     },
     "40.490487948288404,0.5,-4.107321312290333": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -19489,7 +19489,7 @@
       }
     },
     "40.94072434783753,0.5,-4.354626359676352": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -19506,7 +19506,7 @@
       }
     },
     "47.38037300028934,0.5,-3.4716095934387585": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -19523,7 +19523,7 @@
       }
     },
     "34.046695264812456,0.5,15.59743042484191": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -19540,7 +19540,7 @@
       }
     },
     "34.47546897640835,0.5,24.52644521391101": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -19557,7 +19557,7 @@
       }
     },
     "-0.3881433262425702,0.5,36.34884937449431": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -19574,7 +19574,7 @@
       }
     },
     "2.997340313254007,0.5,27.190140299709945": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -19591,7 +19591,7 @@
       }
     },
     "5.552672086446401,0.5,23.318773725709146": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -19608,7 +19608,7 @@
       }
     },
     "4.3858333064487365,0.5,32.57301189206077": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -19625,7 +19625,7 @@
       }
     },
     "2.5834991905597633,0.5,36.35714556305092": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -19642,7 +19642,7 @@
       }
     },
     "-2.6364727685595852,0.5,41.81352452989456": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -19659,7 +19659,7 @@
       }
     },
     "3.9390498668449023,0.5,45.72676008459404": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -19676,7 +19676,7 @@
       }
     },
     "6.657155323143635,0.5,42.46457895506958": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -19693,7 +19693,7 @@
       }
     },
     "4.34007072306953,0.5,36.02997030945879": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -19710,7 +19710,7 @@
       }
     },
     "6.016363081743743,0.5,30.82727295334526": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -19727,7 +19727,7 @@
       }
     },
     "8.90309327356444,1.5,32.263377924635535": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -19744,7 +19744,7 @@
       }
     },
     "8.953208419309572,0.5,38.45981132443822": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -19761,7 +19761,7 @@
       }
     },
     "2.75852546224397,0.5,35.25768776415262": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -19778,7 +19778,7 @@
       }
     },
     "0.597617967911539,0.5,36.553993539055895": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -19795,7 +19795,7 @@
       }
     },
     "3.223708287544465,0.5,30.426401129256725": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -19812,7 +19812,7 @@
       }
     },
     "-5.97176375836427,0.5,42.70761092876333": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -19829,7 +19829,7 @@
       }
     },
     "-12.703441517023542,0.5,31.33057327501988": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -19846,7 +19846,7 @@
       }
     },
     "-16.297105782092448,0.5,25.329457367397776": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -19863,7 +19863,7 @@
       }
     },
     "-14.059076942476992,0.5,31.085755008160685": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -19880,7 +19880,7 @@
       }
     },
     "-17.55976427474955,0.5,22.45621037358036": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -19897,7 +19897,7 @@
       }
     },
     "-19.6266765682611,0.5,13.370369768320149": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -19914,7 +19914,7 @@
       }
     },
     "-13.91225762144681,0.5,3.0752438979076224": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -19931,7 +19931,7 @@
       }
     },
     "-8.955356365376687,0.5,-10.10371996904172": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -19948,7 +19948,7 @@
       }
     },
     "-5.80873426150479,0.5,-10.9761458455196": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -19965,7 +19965,7 @@
       }
     },
     "14.503482187747679,0.5,-10.432910491555965": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -19982,7 +19982,7 @@
       }
     },
     "11.018771048342066,0.5,-1.2031890360343027": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -19999,7 +19999,7 @@
       }
     },
     "12.894128564297375,0.5,8.352081574980968": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -20016,7 +20016,7 @@
       }
     },
     "9.973164871749443,0.5,14.598825798879904": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -20033,7 +20033,7 @@
       }
     },
     "-0.19318183661932853,0.5,23.48678514251032": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -20050,7 +20050,7 @@
       }
     },
     "-7.613659781939926,0.5,22.22593579454503": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -20067,7 +20067,7 @@
       }
     },
     "-13.257224253280569,0.5,14.54676053721128": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -20084,7 +20084,7 @@
       }
     },
     "-4.546116553204191,0.5,11.193504504208445": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -20101,7 +20101,7 @@
       }
     },
     "4.939488632937543,0.5,18.72802894549011": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -20118,7 +20118,7 @@
       }
     },
     "1.9604388759748215,0.5,28.192952268890032": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -20135,7 +20135,7 @@
       }
     },
     "-6.594944332850911,0.5,28.23481877163068": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -20152,7 +20152,7 @@
       }
     },
     "-7.471864081352049,0.5,31.435365279259308": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -20169,7 +20169,7 @@
       }
     },
     "-4.531771591562848,0.5,34.21225683275217": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -20186,7 +20186,7 @@
       }
     },
     "4.011120847845209,0.5,28.964109323820637": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -20203,7 +20203,7 @@
       }
     },
     "19.97821443512133,0.5,6.484632460287397": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -20220,7 +20220,7 @@
       }
     },
     "19.18346605506309,0.5,-0.6861557035938475": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -20237,7 +20237,7 @@
       }
     },
     "9.233238168463103,0.5,-13.040375861900415": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -20254,7 +20254,7 @@
       }
     },
     "-33.73046175151772,0.5,5.656713477261125": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -20271,7 +20271,7 @@
       }
     },
     "-24.907473181710547,0.5,1.3645750558491088": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -20288,7 +20288,7 @@
       }
     },
     "-24.870791574526688,0.5,-3.727859539460031": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -20305,7 +20305,7 @@
       }
     },
     "-34.49,1.5,-1.4419131009826227": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -20322,7 +20322,7 @@
       }
     },
     "-34.898987129270594,1.5,-2.2248967390743015": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -20339,7 +20339,7 @@
       }
     },
     "-35.03485856890068,2.5,-0.7907664092130311": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -20356,7 +20356,7 @@
       }
     },
     "-43.89403713657349,0.5,-5.698083944630348": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -20373,7 +20373,7 @@
       }
     },
     "-33.88881135991069,1.5,-3.203947003020783": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -20390,7 +20390,7 @@
       }
     },
     "-33.28692004506237,0.5,-3.1295229740865054": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -20407,7 +20407,7 @@
       }
     },
     "-34.63192673161962,1.5,-2.392155016148415": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -20424,7 +20424,7 @@
       }
     },
     "-42.8539986594033,0.5,-6.494113976738433": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -20441,7 +20441,7 @@
       }
     },
     "-39.11817078003318,1.5,0.6675143473856853": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -20458,7 +20458,7 @@
       }
     },
     "-44.380342416732624,0.5,3.796260939068774": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -20475,7 +20475,7 @@
       }
     },
     "-35.707907252686866,0.5,6.745344460170922": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -20492,7 +20492,7 @@
       }
     },
     "-30.665368265103428,0.5,6.582147385071575": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -20509,7 +20509,7 @@
       }
     },
     "-31.28994841638632,0.5,4.9945204194578245": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -20526,7 +20526,7 @@
       }
     },
     "-25.09288494315286,0.5,-1.4452318530556454": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -20543,7 +20543,7 @@
       }
     },
     "-32.740585062731206,0.5,-6.954379782252374": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -20560,7 +20560,7 @@
       }
     },
     "-17.478768263614953,0.5,-28.37553373653352": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -20577,7 +20577,7 @@
       }
     },
     "-19.111695250273435,0.5,-29.78608174840051": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -20594,7 +20594,7 @@
       }
     },
     "-17.27229932555105,0.5,-33.49": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -20611,7 +20611,7 @@
       }
     },
     "-16.832477771567333,1.5,-36.94840624134036": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -20628,7 +20628,7 @@
       }
     },
     "-18.924757701596626,2.5,-33.969463813551236": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -20645,7 +20645,7 @@
       }
     },
     "-18.946437140250108,2.5,-34.994488938085674": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -20662,7 +20662,7 @@
       }
     },
     "-20.707103087250847,1.5,-30.615724876849168": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -20679,7 +20679,7 @@
       }
     },
     "-21.701083904324204,1.5,-30.238001082996387": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -20696,7 +20696,7 @@
       }
     },
     "-22.49,1.5,-32.523216865419315": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -20713,7 +20713,7 @@
       }
     },
     "-15.50675891267133,1.5,-35.47437884224304": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -20730,7 +20730,7 @@
       }
     },
     "-14.247903397951799,1.5,-37.63221361122089": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -20747,7 +20747,7 @@
       }
     },
     "-14.567942943709859,0.5,-33.331851204054885": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -20764,7 +20764,7 @@
       }
     },
     "-16.170731486652077,0.5,-31.679670178916847": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -20781,7 +20781,7 @@
       }
     },
     "-12.472624449313749,2.5,-31.073363823401763": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -20798,7 +20798,7 @@
       }
     },
     "-9.51,0.5,-27.897338761667793": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -20815,7 +20815,7 @@
       }
     },
     "-19.637682089138192,0.5,-26.76748884843292": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -20832,7 +20832,7 @@
       }
     },
     "-24.86198640628123,0.5,-25.75135794685444": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -20849,7 +20849,7 @@
       }
     },
     "-25.77698528921311,1.5,-29.41822967032504": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -20866,7 +20866,7 @@
       }
     },
     "-25.675595819575808,1.5,-30.368919296882773": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -20883,7 +20883,7 @@
       }
     },
     "-17.768765947599505,0.5,-28.44387471050166": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -20900,7 +20900,7 @@
       }
     },
     "12.743205014004484,0.5,-36.45018397555684": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -20917,7 +20917,7 @@
       }
     },
     "9.047006403619218,0.5,-33.02904732609091": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -20934,7 +20934,7 @@
       }
     },
     "16.819829143799335,0.5,-26.787289826738103": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -20951,7 +20951,7 @@
       }
     },
     "19.03119328762282,0.5,-28.71923802812943": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -20968,7 +20968,7 @@
       }
     },
     "26.899844633886477,0.5,-45.77928333722174": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -20985,7 +20985,7 @@
       }
     },
     "28.785417063614517,1.5,-39.37286476989447": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -21002,7 +21002,7 @@
       }
     },
     "41.86356720626674,0.5,-26.118097536412957": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -21019,7 +21019,7 @@
       }
     },
     "42.26939243342692,2.5,-19.521833822147915": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -21036,7 +21036,7 @@
       }
     },
     "37.60714967474944,0.5,-21.05592667589762": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -21053,7 +21053,7 @@
       }
     },
     "33.38460468354306,0.5,-20.52826580007298": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -21070,7 +21070,7 @@
       }
     },
     "37.17364142886719,0.5,-15.592648221200868": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -21087,7 +21087,7 @@
       }
     },
     "40.02012070037087,0.5,-13.875335768185053": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -21104,7 +21104,7 @@
       }
     },
     "30.047842053338158,0.5,-15.737071244514118": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -21121,7 +21121,7 @@
       }
     },
     "28.60576815062435,0.5,-22.666548627138795": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -21138,7 +21138,7 @@
       }
     },
     "27.757005142858453,0.5,-27.734785635171708": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -21155,7 +21155,7 @@
       }
     },
     "32.953433975756305,1.5,-34.11497434265047": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -21172,7 +21172,7 @@
       }
     },
     "40.50288880128967,0.5,-35.8409819495205": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -21189,7 +21189,7 @@
       }
     },
     "42.079099635967324,0.5,-36.11138736299112": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -21206,7 +21206,7 @@
       }
     },
     "42.166399742052974,0.5,-37.7738306559219": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -21223,7 +21223,7 @@
       }
     },
     "39.97419605581051,0.5,-37.2690126235327": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -21240,7 +21240,7 @@
       }
     },
     "36.317286729686515,0.5,1.5662222973470303": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -21257,7 +21257,7 @@
       }
     },
     "44.83137540720918,2.5,4.520503061190494": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -21274,7 +21274,7 @@
       }
     },
     "44.67130658437025,2.5,3.5187516429170085": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -21291,7 +21291,7 @@
       }
     },
     "46.15757846781338,1.5,2.9675019962409053": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -21308,7 +21308,7 @@
       }
     },
     "47.710731298297375,0.5,1.0471436044387872": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -21325,7 +21325,7 @@
       }
     },
     "48.31003873402902,0.5,3.8914973254162124": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -21342,7 +21342,7 @@
       }
     },
     "45.47243705546596,2.5,4.167476776633807": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -21359,7 +21359,7 @@
       }
     },
     "43.22582894641239,1.5,0.4879317681949793": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -21376,7 +21376,7 @@
       }
     },
     "41.4698649986882,2.5,2.9785660435809067": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -21393,7 +21393,7 @@
       }
     },
     "42.47441387632854,2.5,4.490000000000002": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -21410,7 +21410,7 @@
       }
     },
     "27.99320837860786,1.5,19.307981694212035": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -21427,7 +21427,7 @@
       }
     },
     "27.593776988632175,1.5,17.37310099496556": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -21444,7 +21444,7 @@
       }
     },
     "28.152658219598127,1.5,15.816589948622195": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -21461,7 +21461,7 @@
       }
     },
     "40.111519430895584,1.5,25.94217046022653": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -21478,7 +21478,7 @@
       }
     },
     "39.945831665073044,1.5,23.875197768662026": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -21495,7 +21495,7 @@
       }
     },
     "40.182628075771035,1.5,23.890361163400826": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -21512,7 +21512,7 @@
       }
     },
     "41.34908291976818,0.5,20.49": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -21529,7 +21529,7 @@
       }
     },
     "40.32916036892187,0.5,18.515666344418754": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -21546,7 +21546,7 @@
       }
     },
     "42.35799705931274,2.5,22.49": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -21563,7 +21563,7 @@
       }
     },
     "44.94936169887292,1.5,25.719379222376002": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -21580,7 +21580,7 @@
       }
     },
     "45.36422782976607,1.5,24.537413688832984": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -21597,7 +21597,7 @@
       }
     },
     "45.49134289819432,1.5,22.89891058447366": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
@@ -21614,7 +21614,7 @@
       }
     },
     "-15.966152556654606,0.5,17.10331713444052": {
-      "modelUri": "Assets/models/environment/waving-grass.gltf",
+      "modelUri": "assets/models/environment/waving-grass.gltf",
       "modelLoopedAnimations": [
         "idle"
       ],
