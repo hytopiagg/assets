@@ -2,7 +2,7 @@
   "name": "@hytopia.com/assets",
   "version": "0.2.20",
   "description": "A variety of default assets for HYTOPIA games.",
-  "main": "index.mjs",
+  "main": "index.js",
   "private": false,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
