@@ -1,0 +1,32 @@
+name: Deploy Player Texture Generator
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: Create package
+      run: |
+        mkdir -p package/textures/
+        mv release/models/players/* package/textures/
+        mv player_texture_generator.py package/lambda_function.py
+        cd package && zip -r ../package.zip .
+        
+    - name: Configure AWS credentials
+      uses: aws-actions/configure-aws-credentials@v4
+      with:
+        aws-region: us-east-1
+        aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+        aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+
+    - name: Deploy to Lambda
+      run: |
+        aws lambda update-function-code \
+          --function-name player-texture-generator \
+          --zip-file fileb://package.zip
