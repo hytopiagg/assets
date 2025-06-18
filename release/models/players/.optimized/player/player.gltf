@@ -3110,7 +3110,7 @@
       "componentType": 5126,
       "count": 13,
       "max": [
-        0.6666666865348816
+        0.666670024394989
       ],
       "min": [
         0
@@ -3130,7 +3130,7 @@
       "componentType": 5126,
       "count": 11,
       "max": [
-        0.5416666865348816
+        0.541670024394989
       ],
       "min": [
         0
@@ -3263,7 +3263,7 @@
       "componentType": 5126,
       "count": 9,
       "max": [
-        0.4583333432674408
+        0.4583300054073334
       ],
       "min": [
         0
@@ -7044,7 +7044,7 @@
       "mesh": 3
     },
     {
-      "name": "hair-1-geo",
+      "name": "hair-0001-geo",
       "translation": [
         0,
         0.03125,
@@ -7053,17 +7053,17 @@
       "mesh": 4
     },
     {
-      "name": "hair-1-extra-geo",
+      "name": "hair-0001-extra-geo",
       "mesh": 5
     },
     {
-      "name": "hair-1-extra",
+      "name": "hair-0001-extra",
       "children": [
         5
       ]
     },
     {
-      "name": "hair-1",
+      "name": "hair-0001",
       "translation": [
         0.109375,
         0.015625,
@@ -7075,7 +7075,7 @@
       ]
     },
     {
-      "name": "hair-2-geo",
+      "name": "hair-0002-geo",
       "translation": [
         0,
         0.03125,
@@ -7084,7 +7084,7 @@
       "mesh": 6
     },
     {
-      "name": "hair-2-curl-geo",
+      "name": "hair-0002-curl-geo",
       "translation": [
         0.265625,
         0.296875,
@@ -7093,13 +7093,13 @@
       "mesh": 7
     },
     {
-      "name": "hair-2-extra",
+      "name": "hair-0002-extra",
       "children": [
         9
       ]
     },
     {
-      "name": "hair-2",
+      "name": "hair-0002",
       "translation": [
         0.109375,
         0.015625,
@@ -7111,7 +7111,7 @@
       ]
     },
     {
-      "name": "hair-3-geo",
+      "name": "hair-0003-geo",
       "translation": [
         0,
         0.03125,
@@ -7120,7 +7120,7 @@
       "mesh": 8
     },
     {
-      "name": "hair-3",
+      "name": "hair-0003",
       "translation": [
         0.109375,
         0.015625,
@@ -7131,7 +7131,7 @@
       ]
     },
     {
-      "name": "hair-4-geo",
+      "name": "hair-0004-geo",
       "translation": [
         0.109375,
         -0.15234375,
@@ -7140,11 +7140,11 @@
       "mesh": 9
     },
     {
-      "name": "hair-4-extra-geo",
+      "name": "hair-0004-extra-geo",
       "mesh": 10
     },
     {
-      "name": "hair-4-extra",
+      "name": "hair-0004-extra",
       "translation": [
         0.109375,
         -0.15234375,
@@ -7155,7 +7155,7 @@
       ]
     },
     {
-      "name": "hair-4",
+      "name": "hair-0004",
       "translation": [
         0,
         0.19921875,
@@ -7167,7 +7167,7 @@
       ]
     },
     {
-      "name": "hair-5-geo",
+      "name": "hair-0005-geo",
       "translation": [
         0.125,
         0.01953125,
@@ -7176,11 +7176,11 @@
       "mesh": 11
     },
     {
-      "name": "hair-5-extra-geo",
+      "name": "hair-0005-extra-geo",
       "mesh": 12
     },
     {
-      "name": "hair-5-extra",
+      "name": "hair-0005-extra",
       "translation": [
         0.125,
         0.01953125,
@@ -7191,7 +7191,7 @@
       ]
     },
     {
-      "name": "hair-5",
+      "name": "hair-0005",
       "translation": [
         -0.015625,
         0.02734375,
@@ -7203,7 +7203,7 @@
       ]
     },
     {
-      "name": "hair-6-geo",
+      "name": "hair-0006-geo",
       "translation": [
         0.125,
         0.01953125,
@@ -7212,7 +7212,7 @@
       "mesh": 13
     },
     {
-      "name": "hair-6-extra-geo",
+      "name": "hair-0006-extra-geo",
       "translation": [
         0.0703125,
         0.30078125,
@@ -7221,7 +7221,7 @@
       "mesh": 14
     },
     {
-      "name": "hair-6-extra",
+      "name": "hair-0006-extra",
       "translation": [
         0.125,
         0.01953125,
@@ -7232,7 +7232,7 @@
       ]
     },
     {
-      "name": "hair-6",
+      "name": "hair-0006",
       "translation": [
         -0.015625,
         0.02734375,
@@ -7244,7 +7244,7 @@
       ]
     },
     {
-      "name": "hair-7-geo",
+      "name": "hair-0007-geo",
       "translation": [
         0.125,
         0.01953125,
@@ -7253,11 +7253,11 @@
       "mesh": 15
     },
     {
-      "name": "hair-7-extra-geo",
+      "name": "hair-0007-extra-geo",
       "mesh": 16
     },
     {
-      "name": "hair-7-extra",
+      "name": "hair-0007-extra",
       "translation": [
         0.125,
         0.01953125,
@@ -7268,7 +7268,7 @@
       ]
     },
     {
-      "name": "hair-7",
+      "name": "hair-0007",
       "translation": [
         -0.015625,
         0.02734375,
@@ -7280,7 +7280,7 @@
       ]
     },
     {
-      "name": "hair-8-geo",
+      "name": "hair-0008-geo",
       "translation": [
         0.125,
         0.01953125,
@@ -7289,11 +7289,11 @@
       "mesh": 15
     },
     {
-      "name": "hair-8-extra-geo",
+      "name": "hair-0008-extra-geo",
       "mesh": 30
     },
     {
-      "name": "hair-8-extra",
+      "name": "hair-0008-extra",
       "translation": [
         0.125,
         0.01953125,
@@ -7304,7 +7304,7 @@
       ]
     },
     {
-      "name": "hair-8",
+      "name": "hair-0008",
       "translation": [
         -0.015625,
         0.02734375,
@@ -7316,7 +7316,7 @@
       ]
     },
     {
-      "name": "hair-9-geo",
+      "name": "hair-0009-geo",
       "translation": [
         0.109375,
         -0.15234375,
@@ -7325,11 +7325,11 @@
       "mesh": 15
     },
     {
-      "name": "hair-9-extra-geo",
+      "name": "hair-0009-extra-geo",
       "mesh": 18
     },
     {
-      "name": "hair-9-extra",
+      "name": "hair-0009-extra",
       "translation": [
         0.109375,
         -0.15234375,
@@ -7340,7 +7340,7 @@
       ]
     },
     {
-      "name": "hair-9",
+      "name": "hair-0009",
       "translation": [
         0,
         0.19921875,
@@ -7352,7 +7352,7 @@
       ]
     },
     {
-      "name": "hair-10-geo",
+      "name": "hair-0010-geo",
       "translation": [
         0.125,
         0.01953125,
@@ -7361,11 +7361,11 @@
       "mesh": 15
     },
     {
-      "name": "hair-10-extra-geo",
+      "name": "hair-0010-extra-geo",
       "mesh": 17
     },
     {
-      "name": "hair-10-extra",
+      "name": "hair-0010-extra",
       "translation": [
         0.125,
         0.01953125,
@@ -7376,7 +7376,7 @@
       ]
     },
     {
-      "name": "hair-10",
+      "name": "hair-0010",
       "translation": [
         -0.015625,
         0.02734375,
