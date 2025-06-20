@@ -14,7 +14,7 @@ jobs:
     - name: Create package
       run: |
         mkdir -p package/textures/
-        mv release/models/players/* package/textures/
+        mv release/models/players/Textures/* package/Textures/
         mv player_texture_generator.py package/lambda_function.py
         cd package && zip -r ../package.zip .
         
