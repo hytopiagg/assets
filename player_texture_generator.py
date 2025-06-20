@@ -120,7 +120,7 @@ def lambda_handler(event, context):
     base_img.save(buf, format="PNG")
     b64 = base64.b64encode(buf.getvalue()).decode()
 
-    base_img.save("out.png")
+    # base_img.save("out.png")
     return {
         "statusCode": 200,
         "headers": {"Content-Type": "image/png"},
