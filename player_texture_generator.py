@@ -95,7 +95,7 @@ def lambda_handler(event, context):
         return create_error("invalidSkinTone", "Requested skin tone does not exist")
 
     ## Generate the output texture
-    base_img = Image.open(f"{textures_path}/player-texture-template.png")
+    base_img = Image.new(mode="RGBA", size=(256,256))
     eyes_img = Image.open(f"{textures_path}/eye-texture/eye-texture.png")
     pupils_img = Image.open(f"{textures_path}/eye-texture/pupil-texture.png")
     
