@@ -78,7 +78,7 @@ def lambda_handler(event, context):
     clothing_id = clothing_query.replace("CLOTHING_", "")
     hair_style_id = hair_style_query.replace("HAIR_", "")
     hair_color_id = hair_color_query.replace("HAIR_COLOR_", "")
-    skin_tone_id = skin_tone_query.replace("SKIN_TONE_", "")
+    skin_tone_id = skin_tone_query.replace("SKIN_TONE_", "").replace("SKIN_COLOR_", "")
     
     ## Check if the requested stuff actually exists
     clothing_path = f"{textures_path}/clothing-texture/{clothing_id}/clothing-{clothing_id}.png"
