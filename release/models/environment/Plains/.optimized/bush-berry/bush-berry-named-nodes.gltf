@@ -530,7 +530,7 @@
   ],
   "animations": [
     {
-      "name": "Wind",
+      "name": "idle",
       "samplers": [
         {
           "input": 10,

@@ -1,6 +1,6 @@
 {
   "asset": {
-    "generator": "glTF-Transform v4.1.3",
+    "generator": "glTF-Transform v4.1.1",
     "version": "2.0"
   },
   "accessors": [
@@ -5111,7 +5111,7 @@
   ],
   "animations": [
     {
-      "name": "Wind",
+      "name": "idle",
       "samplers": [
         {
           "input": 110,
