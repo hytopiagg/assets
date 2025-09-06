@@ -110,9 +110,9 @@ def lambda_handler(event, context):
     pupils_img = rgb_replace_color(pupils_img, (0, 0, 20, 20), (0, 135, 28), (eye_color_r, eye_color_g, eye_color_b, 255))
 
     # Overlay images on top of each other
+    base_img.paste(im=skin_tone_img, box=(0,0), mask=skin_tone_img)
     base_img.paste(im=clothing_img, box=(0,0), mask=clothing_img)
     base_img.paste(im=hair_style_img, box=(0,0), mask=hair_style_img)
-    base_img.paste(im=skin_tone_img, box=(0,0), mask=skin_tone_img)
     base_img.paste(im=eyes_img, box=(0,0), mask=eyes_img)
     base_img.paste(im=pupils_img, box=(0,0), mask=pupils_img)
 
