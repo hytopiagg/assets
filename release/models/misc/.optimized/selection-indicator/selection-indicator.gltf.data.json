@@ -1,0 +1,1 @@
+{"schemaVersion":1,"source":{"uri":"models/misc/selection-indicator.gltf","sha256":"61c29e176931d8ded279688cfdb6f4d6741f915a9aeee7178d3c6b0163f4ff7e"},"animationNames":[],"boundingBox":{"min":{"x":-0.5,"y":0,"z":-0.5},"max":{"x":0.5,"y":0,"z":0.5}},"nodeNames":["plane",""],"trimesh":{"vertices":[0.5,0,0.5,0.5,0,-0.5,-0.5,0,-0.5,-0.5,0,0.5],"indices":[0,1,2,0,2,3]}}
