@@ -1,6 +1,6 @@
 {
   "asset": {
-    "generator": "glTF-Transform v4.1.1",
+    "generator": "glTF-Transform v4.2.1",
     "version": "2.0"
   },
   "accessors": [
@@ -10,6 +10,20 @@
       "count": 36,
       "bufferView": 0,
       "byteOffset": 0
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5123,
+      "count": 36,
+      "bufferView": 0,
+      "byteOffset": 72
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5123,
+      "count": 36,
+      "bufferView": 0,
+      "byteOffset": 144
     },
     {
       "type": "VEC3",
@@ -70,6 +84,13 @@
       "type": "VEC3",
       "componentType": 5126,
       "count": 24,
+      "bufferView": 2,
+      "byteOffset": 20
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 24,
       "max": [
         0.125,
         0.1875,
@@ -89,34 +110,41 @@
       "count": 24,
       "bufferView": 3,
       "byteOffset": 12
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 24,
+      "bufferView": 3,
+      "byteOffset": 20
     }
   ],
   "bufferViews": [
     {
       "buffer": 0,
       "byteOffset": 0,
-      "byteLength": 72,
+      "byteLength": 216,
       "target": 34963
     },
     {
       "buffer": 0,
-      "byteOffset": 72,
+      "byteOffset": 216,
       "byteLength": 768,
       "byteStride": 32,
       "target": 34962
     },
     {
       "buffer": 0,
-      "byteOffset": 840,
-      "byteLength": 480,
-      "byteStride": 20,
+      "byteOffset": 984,
+      "byteLength": 768,
+      "byteStride": 32,
       "target": 34962
     },
     {
       "buffer": 0,
-      "byteOffset": 1320,
-      "byteLength": 480,
-      "byteStride": 20,
+      "byteOffset": 1752,
+      "byteLength": 768,
+      "byteStride": 32,
       "target": 34962
     }
   ],
@@ -143,7 +171,7 @@
   "buffers": [
     {
       "uri": "potato-poisonous-named-nodes.bin",
-      "byteLength": 1800
+      "byteLength": 2520
     }
   ],
   "materials": [
@@ -164,23 +192,9 @@
       "primitives": [
         {
           "attributes": {
-            "POSITION": 1,
-            "NORMAL": 2,
-            "TEXCOORD_0": 3
-          },
-          "mode": 4,
-          "material": 0,
-          "indices": 0
-        }
-      ]
-    },
-    {
-      "primitives": [
-        {
-          "attributes": {
-            "POSITION": 4,
-            "TEXCOORD_0": 5,
-            "NORMAL": 2
+            "POSITION": 3,
+            "NORMAL": 4,
+            "TEXCOORD_0": 5
           },
           "mode": 4,
           "material": 0,
@@ -194,11 +208,25 @@
           "attributes": {
             "POSITION": 6,
             "TEXCOORD_0": 7,
-            "NORMAL": 2
+            "NORMAL": 8
           },
           "mode": 4,
           "material": 0,
-          "indices": 0
+          "indices": 1
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 9,
+            "TEXCOORD_0": 10,
+            "NORMAL": 11
+          },
+          "mode": 4,
+          "material": 0,
+          "indices": 2
         }
       ]
     }

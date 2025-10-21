@@ -1,6 +1,6 @@
 {
   "asset": {
-    "generator": "glTF-Transform v4.1.1",
+    "generator": "glTF-Transform v4.2.1",
     "version": "2.0"
   },
   "accessors": [
@@ -14,9 +14,23 @@
     {
       "type": "SCALAR",
       "componentType": 5123,
-      "count": 30,
+      "count": 36,
       "bufferView": 0,
       "byteOffset": 72
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5123,
+      "count": 36,
+      "bufferView": 0,
+      "byteOffset": 144
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5123,
+      "count": 30,
+      "bufferView": 0,
+      "byteOffset": 216
     },
     {
       "type": "VEC3",
@@ -77,6 +91,13 @@
       "type": "VEC3",
       "componentType": 5126,
       "count": 24,
+      "bufferView": 2,
+      "byteOffset": 20
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 24,
       "max": [
         0.1875,
         0.053347088396549225,
@@ -96,6 +117,13 @@
       "count": 24,
       "bufferView": 3,
       "byteOffset": 12
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 24,
+      "bufferView": 3,
+      "byteOffset": 20
     },
     {
       "type": "VEC3",
@@ -133,33 +161,33 @@
     {
       "buffer": 0,
       "byteOffset": 0,
-      "byteLength": 132,
+      "byteLength": 276,
       "target": 34963
     },
     {
       "buffer": 0,
-      "byteOffset": 132,
+      "byteOffset": 276,
       "byteLength": 768,
       "byteStride": 32,
       "target": 34962
     },
     {
       "buffer": 0,
-      "byteOffset": 900,
-      "byteLength": 480,
-      "byteStride": 20,
+      "byteOffset": 1044,
+      "byteLength": 768,
+      "byteStride": 32,
       "target": 34962
     },
     {
       "buffer": 0,
-      "byteOffset": 1380,
-      "byteLength": 480,
-      "byteStride": 20,
+      "byteOffset": 1812,
+      "byteLength": 768,
+      "byteStride": 32,
       "target": 34962
     },
     {
       "buffer": 0,
-      "byteOffset": 1860,
+      "byteOffset": 2580,
       "byteLength": 480,
       "byteStride": 32,
       "target": 34962
@@ -188,7 +216,7 @@
   "buffers": [
     {
       "uri": "farming-hoe-named-nodes.bin",
-      "byteLength": 2340
+      "byteLength": 3060
     }
   ],
   "materials": [
@@ -209,23 +237,9 @@
       "primitives": [
         {
           "attributes": {
-            "POSITION": 2,
-            "NORMAL": 3,
-            "TEXCOORD_0": 4
-          },
-          "mode": 4,
-          "material": 0,
-          "indices": 0
-        }
-      ]
-    },
-    {
-      "primitives": [
-        {
-          "attributes": {
-            "POSITION": 5,
-            "TEXCOORD_0": 6,
-            "NORMAL": 3
+            "POSITION": 4,
+            "NORMAL": 5,
+            "TEXCOORD_0": 6
           },
           "mode": 4,
           "material": 0,
@@ -239,11 +253,11 @@
           "attributes": {
             "POSITION": 7,
             "TEXCOORD_0": 8,
-            "NORMAL": 3
+            "NORMAL": 9
           },
           "mode": 4,
           "material": 0,
-          "indices": 0
+          "indices": 1
         }
       ]
     },
@@ -251,13 +265,27 @@
       "primitives": [
         {
           "attributes": {
-            "POSITION": 9,
-            "NORMAL": 10,
-            "TEXCOORD_0": 11
+            "POSITION": 10,
+            "TEXCOORD_0": 11,
+            "NORMAL": 12
           },
           "mode": 4,
           "material": 0,
-          "indices": 1
+          "indices": 2
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 13,
+            "NORMAL": 14,
+            "TEXCOORD_0": 15
+          },
+          "mode": 4,
+          "material": 0,
+          "indices": 3
         }
       ]
     }
