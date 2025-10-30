@@ -1,6 +1,6 @@
 {
   "asset": {
-    "generator": "glTF-Transform v4.1.1",
+    "generator": "glTF-Transform v4.2.1",
     "version": "2.0"
   },
   "accessors": [
@@ -45,6 +45,24 @@
       "byteOffset": 80
     },
     {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 1,
+      "bufferView": 0,
+      "byteOffset": 128
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5126,
+      "count": 1,
+      "max": [
+        0
+      ],
+      "min": [
+        0
+      ]
+    },
+    {
       "type": "SCALAR",
       "componentType": 5123,
       "count": 36,
@@ -52,16 +70,30 @@
       "byteOffset": 0
     },
     {
+      "type": "SCALAR",
+      "componentType": 5123,
+      "count": 36,
+      "bufferView": 1,
+      "byteOffset": 72
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5123,
+      "count": 36,
+      "bufferView": 1,
+      "byteOffset": 144
+    },
+    {
       "type": "VEC3",
       "componentType": 5126,
       "count": 24,
       "max": [
-        1.09375,
+        -0.8125,
         3,
         0.1875
       ],
       "min": [
-        0.8125,
+        -1.09375,
         0,
         -0.0625
       ],
@@ -87,12 +119,12 @@
       "componentType": 5126,
       "count": 24,
       "max": [
-        -0.8125,
+        1.09375,
         3,
         0.1875
       ],
       "min": [
-        -1.09375,
+        0.8125,
         0,
         -0.0625
       ],
@@ -105,6 +137,13 @@
       "count": 24,
       "bufferView": 3,
       "byteOffset": 12
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 24,
+      "bufferView": 3,
+      "byteOffset": 20
     },
     {
       "type": "VEC3",
@@ -129,39 +168,46 @@
       "count": 24,
       "bufferView": 4,
       "byteOffset": 12
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 24,
+      "bufferView": 4,
+      "byteOffset": 20
     }
   ],
   "bufferViews": [
     {
       "buffer": 0,
       "byteOffset": 0,
-      "byteLength": 128
+      "byteLength": 140
     },
     {
       "buffer": 0,
-      "byteOffset": 128,
-      "byteLength": 72,
+      "byteOffset": 140,
+      "byteLength": 216,
       "target": 34963
     },
     {
       "buffer": 0,
-      "byteOffset": 200,
+      "byteOffset": 356,
       "byteLength": 768,
       "byteStride": 32,
       "target": 34962
     },
     {
       "buffer": 0,
-      "byteOffset": 968,
-      "byteLength": 480,
-      "byteStride": 20,
+      "byteOffset": 1124,
+      "byteLength": 768,
+      "byteStride": 32,
       "target": 34962
     },
     {
       "buffer": 0,
-      "byteOffset": 1448,
-      "byteLength": 480,
-      "byteStride": 20,
+      "byteOffset": 1892,
+      "byteLength": 768,
+      "byteStride": 32,
       "target": 34962
     }
   ],
@@ -188,7 +234,7 @@
   "buffers": [
     {
       "uri": "iron-gate-named-nodes.bin",
-      "byteLength": 1928
+      "byteLength": 2660
     }
   ],
   "materials": [
@@ -209,13 +255,13 @@
       "primitives": [
         {
           "attributes": {
-            "POSITION": 5,
-            "NORMAL": 6,
-            "TEXCOORD_0": 7
+            "POSITION": 9,
+            "NORMAL": 10,
+            "TEXCOORD_0": 11
           },
           "mode": 4,
           "material": 0,
-          "indices": 4
+          "indices": 6
         }
       ]
     },
@@ -223,13 +269,13 @@
       "primitives": [
         {
           "attributes": {
-            "POSITION": 8,
-            "TEXCOORD_0": 9,
-            "NORMAL": 6
+            "POSITION": 12,
+            "TEXCOORD_0": 13,
+            "NORMAL": 14
           },
           "mode": 4,
           "material": 0,
-          "indices": 4
+          "indices": 7
         }
       ]
     },
@@ -237,13 +283,13 @@
       "primitives": [
         {
           "attributes": {
-            "POSITION": 10,
-            "TEXCOORD_0": 11,
-            "NORMAL": 6
+            "POSITION": 15,
+            "TEXCOORD_0": 16,
+            "NORMAL": 17
           },
           "mode": 4,
           "material": 0,
-          "indices": 4
+          "indices": 8
         }
       ]
     }
@@ -252,7 +298,7 @@
     {
       "name": "cube",
       "translation": [
-        0.4062500000000001,
+        -0.40625,
         0,
         -0.0625
       ],
@@ -261,7 +307,7 @@
     {
       "name": "cube",
       "translation": [
-        -0.4062499999999999,
+        0.40625,
         0,
         -0.0625
       ],
@@ -320,6 +366,25 @@
         {
           "input": 2,
           "output": 3,
+          "interpolation": "LINEAR"
+        }
+      ],
+      "channels": [
+        {
+          "sampler": 0,
+          "target": {
+            "node": 3,
+            "path": "translation"
+          }
+        }
+      ]
+    },
+    {
+      "name": "open",
+      "samplers": [
+        {
+          "input": 5,
+          "output": 4,
           "interpolation": "LINEAR"
         }
       ],
