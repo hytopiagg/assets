@@ -1,0 +1,2155 @@
+{
+  "version": 1,
+  "textureSize": 24,
+  "padding": 20,
+  "atlasWidth": 1024,
+  "atlasHeight": 1024,
+  "textures": {
+    "blocks/andesite.png": {
+      "u0": 0.01953125,
+      "v0": 0.01953125,
+      "u1": 0.04296875,
+      "v1": 0.04296875,
+      "averageRGB": [
+        0.5094498910675381,
+        0.5129357298474946,
+        0.49047521786492376
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/azalea-flowering-leaves.png": {
+      "u0": 0.08203125,
+      "v0": 0.01953125,
+      "u1": 0.10546875,
+      "v1": 0.04296875,
+      "averageRGB": [
+        0.46119281045751637,
+        0.4757148692810458,
+        0.19186410675381263
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": true
+    },
+    "blocks/azalea-leaves.png": {
+      "u0": 0.14453125,
+      "v0": 0.01953125,
+      "u1": 0.16796875,
+      "v1": 0.04296875,
+      "averageRGB": [
+        0.4000544662309368,
+        0.5127314814814815,
+        0.1173202614379085
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": true
+    },
+    "blocks/birch-leaves.png": {
+      "u0": 0.20703125,
+      "v0": 0.01953125,
+      "u1": 0.23046875,
+      "v1": 0.04296875,
+      "averageRGB": [
+        0.14985021786492375,
+        0.4161628540305011,
+        0.05298202614379085
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": true
+    },
+    "blocks/birch-log/+x.png": {
+      "u0": 0.26953125,
+      "v0": 0.01953125,
+      "u1": 0.29296875,
+      "v1": 0.04296875,
+      "averageRGB": [
+        0.8309504357298475,
+        0.792619825708061,
+        0.7707107843137255
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/birch-log/+y.png": {
+      "u0": 0.33203125,
+      "v0": 0.01953125,
+      "u1": 0.35546875,
+      "v1": 0.04296875,
+      "averageRGB": [
+        0.8281522331154685,
+        0.6925925925925926,
+        0.5066789215686275
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/birch-log/+z.png": {
+      "u0": 0.39453125,
+      "v0": 0.01953125,
+      "u1": 0.41796875,
+      "v1": 0.04296875,
+      "averageRGB": [
+        0.8309504357298475,
+        0.792619825708061,
+        0.7707107843137255
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/birch-log/-x.png": {
+      "u0": 0.45703125,
+      "v0": 0.01953125,
+      "u1": 0.48046875,
+      "v1": 0.04296875,
+      "averageRGB": [
+        0.8309504357298475,
+        0.792619825708061,
+        0.7707107843137255
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/birch-log/-y.png": {
+      "u0": 0.51953125,
+      "v0": 0.01953125,
+      "u1": 0.54296875,
+      "v1": 0.04296875,
+      "averageRGB": [
+        0.8281522331154685,
+        0.6925925925925926,
+        0.5066789215686275
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/birch-log/-z.png": {
+      "u0": 0.58203125,
+      "v0": 0.01953125,
+      "u1": 0.60546875,
+      "v1": 0.04296875,
+      "averageRGB": [
+        0.8309504357298475,
+        0.792619825708061,
+        0.7707107843137255
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/birch-planks-vine.png": {
+      "u0": 0.64453125,
+      "v0": 0.01953125,
+      "u1": 0.66796875,
+      "v1": 0.04296875,
+      "averageRGB": [
+        0.7120438453159041,
+        0.6433415032679739,
+        0.2995302287581699
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/birch-planks.png": {
+      "u0": 0.70703125,
+      "v0": 0.01953125,
+      "u1": 0.73046875,
+      "v1": 0.04296875,
+      "averageRGB": [
+        0.9055078976034858,
+        0.7309095860566449,
+        0.4499455337690632
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/black-concrete.png": {
+      "u0": 0.76953125,
+      "v0": 0.01953125,
+      "u1": 0.79296875,
+      "v1": 0.04296875,
+      "averageRGB": [
+        0.09505038126361655,
+        0.08720724400871459,
+        0.08720724400871459
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/blue-concrete.png": {
+      "u0": 0.83203125,
+      "v0": 0.01953125,
+      "u1": 0.85546875,
+      "v1": 0.04296875,
+      "averageRGB": [
+        0.2674768518518519,
+        0.422542211328976,
+        0.8086533224400871
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/bricks.png": {
+      "u0": 0.89453125,
+      "v0": 0.01953125,
+      "u1": 0.91796875,
+      "v1": 0.04296875,
+      "averageRGB": [
+        0.8138139978213508,
+        0.38224400871459696,
+        0.37026143790849675
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/brown-concrete.png": {
+      "u0": 0.95703125,
+      "v0": 0.01953125,
+      "u1": 0.98046875,
+      "v1": 0.04296875,
+      "averageRGB": [
+        0.6029479847494553,
+        0.23254357298474948,
+        0.13242783224400873
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/brown-mushroom-block.png": {
+      "u0": 0.01953125,
+      "v0": 0.08203125,
+      "u1": 0.04296875,
+      "v1": 0.10546875,
+      "averageRGB": [
+        0.6081290849673202,
+        0.4254970043572985,
+        0.30559640522875814
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/cherry-leaves.png": {
+      "u0": 0.08203125,
+      "v0": 0.08203125,
+      "u1": 0.10546875,
+      "v1": 0.10546875,
+      "averageRGB": [
+        0.8245710784313726,
+        0.5953567538126362,
+        0.5907339324618737
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": true
+    },
+    "blocks/coal-block.png": {
+      "u0": 0.14453125,
+      "v0": 0.08203125,
+      "u1": 0.16796875,
+      "v1": 0.10546875,
+      "averageRGB": [
+        0.12350217864923747,
+        0.12069035947712418,
+        0.17568763616557734
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/coal-ore.png": {
+      "u0": 0.20703125,
+      "v0": 0.08203125,
+      "u1": 0.23046875,
+      "v1": 0.10546875,
+      "averageRGB": [
+        0.42207924836601307,
+        0.42257625272331156,
+        0.44046160130718953
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/cobbled-deepslate.png": {
+      "u0": 0.26953125,
+      "v0": 0.08203125,
+      "u1": 0.29296875,
+      "v1": 0.10546875,
+      "averageRGB": [
+        0.29179602396514165,
+        0.29179602396514165,
+        0.29179602396514165
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/cobblestone.png": {
+      "u0": 0.33203125,
+      "v0": 0.08203125,
+      "u1": 0.35546875,
+      "v1": 0.10546875,
+      "averageRGB": [
+        0.47308006535947716,
+        0.47308006535947716,
+        0.47308006535947716
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/cyan-concrete.png": {
+      "u0": 0.39453125,
+      "v0": 0.08203125,
+      "u1": 0.41796875,
+      "v1": 0.10546875,
+      "averageRGB": [
+        0,
+        0.6382080610021786,
+        0.6257829520697168
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/dark-oak-leaves.png": {
+      "u0": 0.45703125,
+      "v0": 0.08203125,
+      "u1": 0.48046875,
+      "v1": 0.10546875,
+      "averageRGB": [
+        0.1905977668845316,
+        0.4153254357298475,
+        0.058775871459694984
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": true
+    },
+    "blocks/deepslate-coal-ore.png": {
+      "u0": 0.51953125,
+      "v0": 0.08203125,
+      "u1": 0.54296875,
+      "v1": 0.10546875,
+      "averageRGB": [
+        0.2735974945533769,
+        0.27437363834422657,
+        0.29221132897603486
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/deepslate-diamond-ore.png": {
+      "u0": 0.58203125,
+      "v0": 0.08203125,
+      "u1": 0.60546875,
+      "v1": 0.10546875,
+      "averageRGB": [
+        0.2485498366013072,
+        0.40767293028322443,
+        0.4226239106753813
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/deepslate-emerald-ore.png": {
+      "u0": 0.64453125,
+      "v0": 0.08203125,
+      "u1": 0.66796875,
+      "v1": 0.10546875,
+      "averageRGB": [
+        0.24218409586056644,
+        0.38530773420479303,
+        0.26686410675381267
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/deepslate-gold-ore.png": {
+      "u0": 0.70703125,
+      "v0": 0.08203125,
+      "u1": 0.73046875,
+      "v1": 0.10546875,
+      "averageRGB": [
+        0.44718818082788675,
+        0.3779003267973856,
+        0.2395152505446623
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/deepslate-iron-ore.png": {
+      "u0": 0.76953125,
+      "v0": 0.08203125,
+      "u1": 0.79296875,
+      "v1": 0.10546875,
+      "averageRGB": [
+        0.3775122549019608,
+        0.3276075708061002,
+        0.3064133986928105
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/deepslate-ruby-ore.png": {
+      "u0": 0.83203125,
+      "v0": 0.08203125,
+      "u1": 0.85546875,
+      "v1": 0.10546875,
+      "averageRGB": [
+        0.37576933551198255,
+        0.272875816993464,
+        0.284245642701525
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/deepslate-sapphire-ore.png": {
+      "u0": 0.89453125,
+      "v0": 0.08203125,
+      "u1": 0.91796875,
+      "v1": 0.10546875,
+      "averageRGB": [
+        0.320479302832244,
+        0.31286764705882353,
+        0.4093818082788671
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/deepslate.png": {
+      "u0": 0.95703125,
+      "v0": 0.08203125,
+      "u1": 0.98046875,
+      "v1": 0.10546875,
+      "averageRGB": [
+        0.31085920479302837,
+        0.31085920479302837,
+        0.31085920479302837
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/diamond-block.png": {
+      "u0": 0.01953125,
+      "v0": 0.14453125,
+      "u1": 0.04296875,
+      "v1": 0.16796875,
+      "averageRGB": [
+        0.23225762527233115,
+        0.8309095860566449,
+        0.8627791394335511
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/diamond-ore.png": {
+      "u0": 0.08203125,
+      "v0": 0.14453125,
+      "u1": 0.10546875,
+      "v1": 0.16796875,
+      "averageRGB": [
+        0.3840754357298475,
+        0.5478281590413943,
+        0.565230119825708
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/diorite.png": {
+      "u0": 0.14453125,
+      "v0": 0.14453125,
+      "u1": 0.16796875,
+      "v1": 0.16796875,
+      "averageRGB": [
+        0.8851171023965142,
+        0.8885484749455338,
+        0.9008442265795207
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/dirt.png": {
+      "u0": 0.20703125,
+      "v0": 0.14453125,
+      "u1": 0.23046875,
+      "v1": 0.16796875,
+      "averageRGB": [
+        0.5741353485838779,
+        0.3047930283224401,
+        0.20411900871459696
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/emerald-block.png": {
+      "u0": 0.26953125,
+      "v0": 0.14453125,
+      "u1": 0.29296875,
+      "v1": 0.16796875,
+      "averageRGB": [
+        0.1493736383442266,
+        0.8104575163398693,
+        0.1645492919389978
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/emerald-ore.png": {
+      "u0": 0.33203125,
+      "v0": 0.14453125,
+      "u1": 0.35546875,
+      "v1": 0.16796875,
+      "averageRGB": [
+        0.39251770152505444,
+        0.5383374183006535,
+        0.41854575163398694
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/error.png": {
+      "u0": 0.39453125,
+      "v0": 0.14453125,
+      "u1": 0.41796875,
+      "v1": 0.16796875,
+      "averageRGB": [
+        0.5969635076252724,
+        0.21875,
+        0.5969635076252724
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/farmland-moist/+x.png": {
+      "u0": 0.45703125,
+      "v0": 0.14453125,
+      "u1": 0.48046875,
+      "v1": 0.16796875,
+      "averageRGB": [
+        0.5741353485838779,
+        0.3047930283224401,
+        0.20411900871459696
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/farmland-moist/+y.png": {
+      "u0": 0.51953125,
+      "v0": 0.14453125,
+      "u1": 0.54296875,
+      "v1": 0.16796875,
+      "averageRGB": [
+        0.45795887799564267,
+        0.21555691721132897,
+        0.12470043572984749
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/farmland-moist/+z.png": {
+      "u0": 0.58203125,
+      "v0": 0.14453125,
+      "u1": 0.60546875,
+      "v1": 0.16796875,
+      "averageRGB": [
+        0.5741353485838779,
+        0.3047930283224401,
+        0.20411900871459696
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/farmland-moist/-x.png": {
+      "u0": 0.64453125,
+      "v0": 0.14453125,
+      "u1": 0.66796875,
+      "v1": 0.16796875,
+      "averageRGB": [
+        0.5741353485838779,
+        0.3047930283224401,
+        0.20411900871459696
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/farmland-moist/-y.png": {
+      "u0": 0.70703125,
+      "v0": 0.14453125,
+      "u1": 0.73046875,
+      "v1": 0.16796875,
+      "averageRGB": [
+        0.5741353485838779,
+        0.3047930283224401,
+        0.20411900871459696
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/farmland-moist/-z.png": {
+      "u0": 0.76953125,
+      "v0": 0.14453125,
+      "u1": 0.79296875,
+      "v1": 0.16796875,
+      "averageRGB": [
+        0.5741353485838779,
+        0.3047930283224401,
+        0.20411900871459696
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/farmland/+x.png": {
+      "u0": 0.83203125,
+      "v0": 0.14453125,
+      "u1": 0.85546875,
+      "v1": 0.16796875,
+      "averageRGB": [
+        0.5741353485838779,
+        0.3047930283224401,
+        0.20411900871459696
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/farmland/+y.png": {
+      "u0": 0.89453125,
+      "v0": 0.14453125,
+      "u1": 0.91796875,
+      "v1": 0.16796875,
+      "averageRGB": [
+        0.5652505446623094,
+        0.3030433006535948,
+        0.20433006535947712
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/farmland/+z.png": {
+      "u0": 0.95703125,
+      "v0": 0.14453125,
+      "u1": 0.98046875,
+      "v1": 0.16796875,
+      "averageRGB": [
+        0.5741353485838779,
+        0.3047930283224401,
+        0.20411900871459696
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/farmland/-x.png": {
+      "u0": 0.01953125,
+      "v0": 0.20703125,
+      "u1": 0.04296875,
+      "v1": 0.23046875,
+      "averageRGB": [
+        0.5741353485838779,
+        0.3047930283224401,
+        0.20411900871459696
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/farmland/-y.png": {
+      "u0": 0.08203125,
+      "v0": 0.20703125,
+      "u1": 0.10546875,
+      "v1": 0.23046875,
+      "averageRGB": [
+        0.5741353485838779,
+        0.3047930283224401,
+        0.20411900871459696
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/farmland/-z.png": {
+      "u0": 0.14453125,
+      "v0": 0.20703125,
+      "u1": 0.16796875,
+      "v1": 0.23046875,
+      "averageRGB": [
+        0.5741353485838779,
+        0.3047930283224401,
+        0.20411900871459696
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/glass-aqua.png": {
+      "u0": 0.20703125,
+      "v0": 0.20703125,
+      "u1": 0.23046875,
+      "v1": 0.23046875,
+      "averageRGB": [
+        0,
+        0.48476307189542484,
+        0.5064406318082789
+      ],
+      "isTransparent": true,
+      "needsAlphaTest": false
+    },
+    "blocks/glass-black.png": {
+      "u0": 0.26953125,
+      "v0": 0.20703125,
+      "u1": 0.29296875,
+      "v1": 0.23046875,
+      "averageRGB": [
+        0.22408088235294119,
+        0.2068082788671024,
+        0.20324754901960784
+      ],
+      "isTransparent": true,
+      "needsAlphaTest": false
+    },
+    "blocks/glass-blue.png": {
+      "u0": 0.33203125,
+      "v0": 0.20703125,
+      "u1": 0.35546875,
+      "v1": 0.23046875,
+      "averageRGB": [
+        0.22364515250544661,
+        0.3906318082788671,
+        0.7733728213507626
+      ],
+      "isTransparent": true,
+      "needsAlphaTest": false
+    },
+    "blocks/glass-brown.png": {
+      "u0": 0.39453125,
+      "v0": 0.20703125,
+      "u1": 0.41796875,
+      "v1": 0.23046875,
+      "averageRGB": [
+        0.44163262527233116,
+        0.2715482026143791,
+        0.19428785403050108
+      ],
+      "isTransparent": true,
+      "needsAlphaTest": false
+    },
+    "blocks/glass-dark-gray.png": {
+      "u0": 0.45703125,
+      "v0": 0.20703125,
+      "u1": 0.48046875,
+      "v1": 0.23046875,
+      "averageRGB": [
+        0.34958469498910677,
+        0.34958469498910677,
+        0.34958469498910677
+      ],
+      "isTransparent": true,
+      "needsAlphaTest": false
+    },
+    "blocks/glass-green.png": {
+      "u0": 0.51953125,
+      "v0": 0.20703125,
+      "u1": 0.54296875,
+      "v1": 0.23046875,
+      "averageRGB": [
+        0.30346541394335513,
+        0.59421977124183,
+        0.1337826797385621
+      ],
+      "isTransparent": true,
+      "needsAlphaTest": false
+    },
+    "blocks/glass-light-blue.png": {
+      "u0": 0.58203125,
+      "v0": 0.20703125,
+      "u1": 0.60546875,
+      "v1": 0.23046875,
+      "averageRGB": [
+        0.1264093137254902,
+        0.589433551198257,
+        0.8576048474945533
+      ],
+      "isTransparent": true,
+      "needsAlphaTest": false
+    },
+    "blocks/glass-light-gray.png": {
+      "u0": 0.64453125,
+      "v0": 0.20703125,
+      "u1": 0.66796875,
+      "v1": 0.23046875,
+      "averageRGB": [
+        0.5844226579520697,
+        0.5844226579520697,
+        0.5844226579520697
+      ],
+      "isTransparent": true,
+      "needsAlphaTest": false
+    },
+    "blocks/glass-lime.png": {
+      "u0": 0.70703125,
+      "v0": 0.20703125,
+      "u1": 0.73046875,
+      "v1": 0.23046875,
+      "averageRGB": [
+        0.2907883986928105,
+        0.6676811002178649,
+        0.3039556100217865
+      ],
+      "isTransparent": true,
+      "needsAlphaTest": false
+    },
+    "blocks/glass-magenta.png": {
+      "u0": 0.76953125,
+      "v0": 0.20703125,
+      "u1": 0.79296875,
+      "v1": 0.23046875,
+      "averageRGB": [
+        0.6990740740740741,
+        0.17318218954248368,
+        0.9241625816993464
+      ],
+      "isTransparent": true,
+      "needsAlphaTest": false
+    },
+    "blocks/glass-orange.png": {
+      "u0": 0.83203125,
+      "v0": 0.20703125,
+      "u1": 0.85546875,
+      "v1": 0.23046875,
+      "averageRGB": [
+        0.7889161220043573,
+        0.3277096949891068,
+        0.06062091503267974
+      ],
+      "isTransparent": true,
+      "needsAlphaTest": false
+    },
+    "blocks/glass-pink.png": {
+      "u0": 0.89453125,
+      "v0": 0.20703125,
+      "u1": 0.91796875,
+      "v1": 0.23046875,
+      "averageRGB": [
+        0.9717728758169935,
+        0.26859340958605665,
+        0.6620710784313726
+      ],
+      "isTransparent": true,
+      "needsAlphaTest": false
+    },
+    "blocks/glass-purple.png": {
+      "u0": 0.95703125,
+      "v0": 0.20703125,
+      "u1": 0.98046875,
+      "v1": 0.23046875,
+      "averageRGB": [
+        0.5821010348583878,
+        0.2605187908496732,
+        0.9842796840958606
+      ],
+      "isTransparent": true,
+      "needsAlphaTest": false
+    },
+    "blocks/glass-red.png": {
+      "u0": 0.01953125,
+      "v0": 0.26953125,
+      "u1": 0.04296875,
+      "v1": 0.29296875,
+      "averageRGB": [
+        0.6851783769063181,
+        0.16262254901960785,
+        0.14934640522875817
+      ],
+      "isTransparent": true,
+      "needsAlphaTest": false
+    },
+    "blocks/glass-white.png": {
+      "u0": 0.08203125,
+      "v0": 0.26953125,
+      "u1": 0.10546875,
+      "v1": 0.29296875,
+      "averageRGB": [
+        0.6879765795206971,
+        0.6879765795206971,
+        0.6879765795206971
+      ],
+      "isTransparent": true,
+      "needsAlphaTest": false
+    },
+    "blocks/glass-yellow.png": {
+      "u0": 0.14453125,
+      "v0": 0.26953125,
+      "u1": 0.16796875,
+      "v1": 0.29296875,
+      "averageRGB": [
+        0.8789488017429194,
+        0.5819921023965142,
+        0.04413807189542484
+      ],
+      "isTransparent": true,
+      "needsAlphaTest": false
+    },
+    "blocks/glass.png": {
+      "u0": 0.20703125,
+      "v0": 0.26953125,
+      "u1": 0.23046875,
+      "v1": 0.29296875,
+      "averageRGB": [
+        0.2511165577342048,
+        0.2598992374727669,
+        0.3038398692810458
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": true
+    },
+    "blocks/gold-block.png": {
+      "u0": 0.26953125,
+      "v0": 0.26953125,
+      "u1": 0.29296875,
+      "v1": 0.29296875,
+      "averageRGB": [
+        0.9704316448801743,
+        0.7897399237472766,
+        0.1814542483660131
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/gold-ore.png": {
+      "u0": 0.33203125,
+      "v0": 0.26953125,
+      "u1": 0.35546875,
+      "v1": 0.29296875,
+      "averageRGB": [
+        0.6034586056644881,
+        0.5322984749455337,
+        0.38931781045751634
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/granite.png": {
+      "u0": 0.39453125,
+      "v0": 0.26953125,
+      "u1": 0.41796875,
+      "v1": 0.29296875,
+      "averageRGB": [
+        0.7169594226579521,
+        0.42848583877995644,
+        0.36232298474945535
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/grass-block-pine/+x.png": {
+      "u0": 0.45703125,
+      "v0": 0.26953125,
+      "u1": 0.48046875,
+      "v1": 0.29296875,
+      "averageRGB": [
+        0.43233932461873636,
+        0.37100354030501087,
+        0.1912105119825708
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/grass-block-pine/+y.png": {
+      "u0": 0.51953125,
+      "v0": 0.26953125,
+      "u1": 0.54296875,
+      "v1": 0.29296875,
+      "averageRGB": [
+        0.2606821895424836,
+        0.5727805010893245,
+        0.20411900871459696
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/grass-block-pine/+z.png": {
+      "u0": 0.58203125,
+      "v0": 0.26953125,
+      "u1": 0.60546875,
+      "v1": 0.29296875,
+      "averageRGB": [
+        0.43233932461873636,
+        0.37100354030501087,
+        0.1912105119825708
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/grass-block-pine/-x.png": {
+      "u0": 0.64453125,
+      "v0": 0.26953125,
+      "u1": 0.66796875,
+      "v1": 0.29296875,
+      "averageRGB": [
+        0.43233932461873636,
+        0.37100354030501087,
+        0.1912105119825708
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/grass-block-pine/-y.png": {
+      "u0": 0.70703125,
+      "v0": 0.26953125,
+      "u1": 0.73046875,
+      "v1": 0.29296875,
+      "averageRGB": [
+        0.5741353485838779,
+        0.3047930283224401,
+        0.20411900871459696
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/grass-block-pine/-z.png": {
+      "u0": 0.76953125,
+      "v0": 0.26953125,
+      "u1": 0.79296875,
+      "v1": 0.29296875,
+      "averageRGB": [
+        0.43233932461873636,
+        0.37100354030501087,
+        0.1912105119825708
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/grass-block/+x.png": {
+      "u0": 0.83203125,
+      "v0": 0.26953125,
+      "u1": 0.85546875,
+      "v1": 0.29296875,
+      "averageRGB": [
+        0.5078022875816994,
+        0.40532407407407406,
+        0.18389842047930283
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/grass-block/+y.png": {
+      "u0": 0.89453125,
+      "v0": 0.26953125,
+      "u1": 0.91796875,
+      "v1": 0.29296875,
+      "averageRGB": [
+        0.49923066448801745,
+        0.6703976034858388,
+        0.173604302832244
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/grass-block/+z.png": {
+      "u0": 0.95703125,
+      "v0": 0.26953125,
+      "u1": 0.98046875,
+      "v1": 0.29296875,
+      "averageRGB": [
+        0.5078022875816994,
+        0.40532407407407406,
+        0.18389842047930283
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/grass-block/-x.png": {
+      "u0": 0.01953125,
+      "v0": 0.33203125,
+      "u1": 0.04296875,
+      "v1": 0.35546875,
+      "averageRGB": [
+        0.5078022875816994,
+        0.40532407407407406,
+        0.18389842047930283
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/grass-block/-y.png": {
+      "u0": 0.08203125,
+      "v0": 0.33203125,
+      "u1": 0.10546875,
+      "v1": 0.35546875,
+      "averageRGB": [
+        0.5741353485838779,
+        0.3047930283224401,
+        0.20411900871459696
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/grass-block/-z.png": {
+      "u0": 0.14453125,
+      "v0": 0.33203125,
+      "u1": 0.16796875,
+      "v1": 0.35546875,
+      "averageRGB": [
+        0.5078022875816994,
+        0.40532407407407406,
+        0.18389842047930283
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/grass-flower-block-pine/+x.png": {
+      "u0": 0.20703125,
+      "v0": 0.33203125,
+      "u1": 0.23046875,
+      "v1": 0.35546875,
+      "averageRGB": [
+        0.43233932461873636,
+        0.37100354030501087,
+        0.1912105119825708
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/grass-flower-block-pine/+y.png": {
+      "u0": 0.26953125,
+      "v0": 0.33203125,
+      "u1": 0.29296875,
+      "v1": 0.35546875,
+      "averageRGB": [
+        0.3434095860566449,
+        0.5607162309368191,
+        0.23542347494553378
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/grass-flower-block-pine/+z.png": {
+      "u0": 0.33203125,
+      "v0": 0.33203125,
+      "u1": 0.35546875,
+      "v1": 0.35546875,
+      "averageRGB": [
+        0.43233932461873636,
+        0.37100354030501087,
+        0.1912105119825708
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/grass-flower-block-pine/-x.png": {
+      "u0": 0.39453125,
+      "v0": 0.33203125,
+      "u1": 0.41796875,
+      "v1": 0.35546875,
+      "averageRGB": [
+        0.43233932461873636,
+        0.37100354030501087,
+        0.1912105119825708
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/grass-flower-block-pine/-y.png": {
+      "u0": 0.45703125,
+      "v0": 0.33203125,
+      "u1": 0.48046875,
+      "v1": 0.35546875,
+      "averageRGB": [
+        0.5741353485838779,
+        0.3047930283224401,
+        0.20411900871459696
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/grass-flower-block-pine/-z.png": {
+      "u0": 0.51953125,
+      "v0": 0.33203125,
+      "u1": 0.54296875,
+      "v1": 0.35546875,
+      "averageRGB": [
+        0.43233932461873636,
+        0.37100354030501087,
+        0.1912105119825708
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/grass-flower-block/+x.png": {
+      "u0": 0.58203125,
+      "v0": 0.33203125,
+      "u1": 0.60546875,
+      "v1": 0.35546875,
+      "averageRGB": [
+        0.5078022875816994,
+        0.40532407407407406,
+        0.18389842047930283
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/grass-flower-block/+y.png": {
+      "u0": 0.64453125,
+      "v0": 0.33203125,
+      "u1": 0.66796875,
+      "v1": 0.35546875,
+      "averageRGB": [
+        0.5575435729847494,
+        0.6918028322440087,
+        0.23540985838779954
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/grass-flower-block/+z.png": {
+      "u0": 0.70703125,
+      "v0": 0.33203125,
+      "u1": 0.73046875,
+      "v1": 0.35546875,
+      "averageRGB": [
+        0.5078022875816994,
+        0.40532407407407406,
+        0.18389842047930283
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/grass-flower-block/-x.png": {
+      "u0": 0.76953125,
+      "v0": 0.33203125,
+      "u1": 0.79296875,
+      "v1": 0.35546875,
+      "averageRGB": [
+        0.5078022875816994,
+        0.40532407407407406,
+        0.18389842047930283
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/grass-flower-block/-y.png": {
+      "u0": 0.83203125,
+      "v0": 0.33203125,
+      "u1": 0.85546875,
+      "v1": 0.35546875,
+      "averageRGB": [
+        0.5741353485838779,
+        0.3047930283224401,
+        0.20411900871459696
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/grass-flower-block/-z.png": {
+      "u0": 0.89453125,
+      "v0": 0.33203125,
+      "u1": 0.91796875,
+      "v1": 0.35546875,
+      "averageRGB": [
+        0.5078022875816994,
+        0.40532407407407406,
+        0.18389842047930283
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/grass-flower-pine.png": {
+      "u0": 0.95703125,
+      "v0": 0.33203125,
+      "u1": 0.98046875,
+      "v1": 0.35546875,
+      "averageRGB": [
+        0.3434095860566449,
+        0.5607162309368191,
+        0.23542347494553378
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/grass-flower.png": {
+      "u0": 0.01953125,
+      "v0": 0.39453125,
+      "u1": 0.04296875,
+      "v1": 0.41796875,
+      "averageRGB": [
+        0.5575435729847494,
+        0.6918028322440087,
+        0.23540985838779954
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/grass-pine.png": {
+      "u0": 0.08203125,
+      "v0": 0.39453125,
+      "u1": 0.10546875,
+      "v1": 0.41796875,
+      "averageRGB": [
+        0.2606821895424836,
+        0.5727805010893245,
+        0.20411900871459696
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/grass-snow-block/+x.png": {
+      "u0": 0.14453125,
+      "v0": 0.39453125,
+      "u1": 0.16796875,
+      "v1": 0.41796875,
+      "averageRGB": [
+        0.6672657952069716,
+        0.5470452069716776,
+        0.5218681917211329
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/grass-snow-block/+y.png": {
+      "u0": 0.20703125,
+      "v0": 0.39453125,
+      "u1": 0.23046875,
+      "v1": 0.41796875,
+      "averageRGB": [
+        0.9681304466230937,
+        0.9994076797385621,
+        0.9983319716775599
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/grass-snow-block/+z.png": {
+      "u0": 0.26953125,
+      "v0": 0.39453125,
+      "u1": 0.29296875,
+      "v1": 0.41796875,
+      "averageRGB": [
+        0.6672657952069716,
+        0.5470452069716776,
+        0.5218681917211329
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/grass-snow-block/-x.png": {
+      "u0": 0.33203125,
+      "v0": 0.39453125,
+      "u1": 0.35546875,
+      "v1": 0.41796875,
+      "averageRGB": [
+        0.6672657952069716,
+        0.5470452069716776,
+        0.5218681917211329
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/grass-snow-block/-y.png": {
+      "u0": 0.39453125,
+      "v0": 0.39453125,
+      "u1": 0.41796875,
+      "v1": 0.41796875,
+      "averageRGB": [
+        0.5741353485838779,
+        0.3047930283224401,
+        0.20411900871459696
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/grass-snow-block/-z.png": {
+      "u0": 0.45703125,
+      "v0": 0.39453125,
+      "u1": 0.48046875,
+      "v1": 0.41796875,
+      "averageRGB": [
+        0.6672657952069716,
+        0.5470452069716776,
+        0.5218681917211329
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/grass.png": {
+      "u0": 0.51953125,
+      "v0": 0.39453125,
+      "u1": 0.54296875,
+      "v1": 0.41796875,
+      "averageRGB": [
+        0.49923066448801745,
+        0.6703976034858388,
+        0.173604302832244
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/gray-concrete.png": {
+      "u0": 0.58203125,
+      "v0": 0.39453125,
+      "u1": 0.60546875,
+      "v1": 0.41796875,
+      "averageRGB": [
+        0.40162717864923747,
+        0.40162717864923747,
+        0.40162717864923747
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/green-concrete.png": {
+      "u0": 0.64453125,
+      "v0": 0.39453125,
+      "u1": 0.66796875,
+      "v1": 0.41796875,
+      "averageRGB": [
+        0.4259123093681917,
+        0.7226851851851852,
+        0.19909449891067538
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/ice.png": {
+      "u0": 0.70703125,
+      "v0": 0.39453125,
+      "u1": 0.73046875,
+      "v1": 0.41796875,
+      "averageRGB": [
+        0.5409858387799564,
+        0.7568899782135077,
+        1
+      ],
+      "isTransparent": true,
+      "needsAlphaTest": false
+    },
+    "blocks/iron-block.png": {
+      "u0": 0.76953125,
+      "v0": 0.39453125,
+      "u1": 0.79296875,
+      "v1": 0.41796875,
+      "averageRGB": [
+        0.6251429738562092,
+        0.6855460239651416,
+        0.7550381263616558
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/iron-ore.png": {
+      "u0": 0.83203125,
+      "v0": 0.39453125,
+      "u1": 0.85546875,
+      "v1": 0.41796875,
+      "averageRGB": [
+        0.5402096949891068,
+        0.4856481481481481,
+        0.46294253812636166
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/jungle-leaves.png": {
+      "u0": 0.89453125,
+      "v0": 0.39453125,
+      "u1": 0.91796875,
+      "v1": 0.41796875,
+      "averageRGB": [
+        0.18705746187363834,
+        0.4467320261437909,
+        0.0471473311546841
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": true
+    },
+    "blocks/lava-stone.png": {
+      "u0": 0.95703125,
+      "v0": 0.39453125,
+      "u1": 0.98046875,
+      "v1": 0.41796875,
+      "averageRGB": [
+        0.41384803921568625,
+        0.06726579520697168,
+        0.11235021786492376
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/lava.png": {
+      "u0": 0.01953125,
+      "v0": 0.45703125,
+      "u1": 0.04296875,
+      "v1": 0.48046875,
+      "averageRGB": [
+        0.7729302832244009,
+        0.2849264705882353,
+        0.04169389978213508
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/light-blue-concrete.png": {
+      "u0": 0.08203125,
+      "v0": 0.45703125,
+      "u1": 0.10546875,
+      "v1": 0.48046875,
+      "averageRGB": [
+        0.18252314814814816,
+        0.7255378540305011,
+        0.9799768518518519
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/light-gray-concrete.png": {
+      "u0": 0.14453125,
+      "v0": 0.45703125,
+      "u1": 0.16796875,
+      "v1": 0.48046875,
+      "averageRGB": [
+        0.6802968409586058,
+        0.6802968409586058,
+        0.6802968409586058
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/lime-concrete.png": {
+      "u0": 0.20703125,
+      "v0": 0.45703125,
+      "u1": 0.23046875,
+      "v1": 0.48046875,
+      "averageRGB": [
+        0.4044253812636166,
+        0.9444444444444445,
+        0.4082516339869281
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/magenta-concrete.png": {
+      "u0": 0.26953125,
+      "v0": 0.45703125,
+      "u1": 0.29296875,
+      "v1": 0.48046875,
+      "averageRGB": [
+        0.7905501089324618,
+        0.32262391067538126,
+        0.9996323529411765
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/magma-block.png": {
+      "u0": 0.33203125,
+      "v0": 0.45703125,
+      "u1": 0.35546875,
+      "v1": 0.48046875,
+      "averageRGB": [
+        0.5432734204793028,
+        0.1366761982570806,
+        0.08287037037037036
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/mossy-cobblestone.png": {
+      "u0": 0.39453125,
+      "v0": 0.45703125,
+      "u1": 0.41796875,
+      "v1": 0.48046875,
+      "averageRGB": [
+        0.4285947712418301,
+        0.4777165032679738,
+        0.3815223311546841
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/mossy-stone-bricks.png": {
+      "u0": 0.45703125,
+      "v0": 0.45703125,
+      "u1": 0.48046875,
+      "v1": 0.48046875,
+      "averageRGB": [
+        0.46148556644880173,
+        0.4971745642701525,
+        0.43162445533769067
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/mushroom-block.png": {
+      "u0": 0.51953125,
+      "v0": 0.45703125,
+      "u1": 0.54296875,
+      "v1": 0.48046875,
+      "averageRGB": [
+        0.8701456971677559,
+        0.7257897603485839,
+        0.4730868736383442
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/mushroom-stem.png": {
+      "u0": 0.58203125,
+      "v0": 0.45703125,
+      "u1": 0.60546875,
+      "v1": 0.48046875,
+      "averageRGB": [
+        0.8791462418300653,
+        0.8252246732026144,
+        0.7126429738562092
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/oak-leaves.png": {
+      "u0": 0.64453125,
+      "v0": 0.45703125,
+      "u1": 0.66796875,
+      "v1": 0.48046875,
+      "averageRGB": [
+        0.1993872549019608,
+        0.5071418845315904,
+        0.04274918300653595
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": true
+    },
+    "blocks/oak-log/+x.png": {
+      "u0": 0.70703125,
+      "v0": 0.45703125,
+      "u1": 0.73046875,
+      "v1": 0.48046875,
+      "averageRGB": [
+        0.4219362745098039,
+        0.2511710239651416,
+        0.1354983660130719
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/oak-log/+y.png": {
+      "u0": 0.76953125,
+      "v0": 0.45703125,
+      "u1": 0.79296875,
+      "v1": 0.48046875,
+      "averageRGB": [
+        0.6259735838779956,
+        0.430249183006536,
+        0.2647194989106754
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/oak-log/+z.png": {
+      "u0": 0.83203125,
+      "v0": 0.45703125,
+      "u1": 0.85546875,
+      "v1": 0.48046875,
+      "averageRGB": [
+        0.4219362745098039,
+        0.2511710239651416,
+        0.1354983660130719
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/oak-log/-x.png": {
+      "u0": 0.89453125,
+      "v0": 0.45703125,
+      "u1": 0.91796875,
+      "v1": 0.48046875,
+      "averageRGB": [
+        0.4219362745098039,
+        0.2511710239651416,
+        0.1354983660130719
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/oak-log/-y.png": {
+      "u0": 0.95703125,
+      "v0": 0.45703125,
+      "u1": 0.98046875,
+      "v1": 0.48046875,
+      "averageRGB": [
+        0.6259735838779956,
+        0.430249183006536,
+        0.2647194989106754
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/oak-log/-z.png": {
+      "u0": 0.01953125,
+      "v0": 0.51953125,
+      "u1": 0.04296875,
+      "v1": 0.54296875,
+      "averageRGB": [
+        0.4219362745098039,
+        0.2511710239651416,
+        0.1354983660130719
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/oak-planks-vine.png": {
+      "u0": 0.08203125,
+      "v0": 0.51953125,
+      "u1": 0.10546875,
+      "v1": 0.54296875,
+      "averageRGB": [
+        0.6203976034858387,
+        0.5276211873638343,
+        0.2272194989106754
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/oak-planks.png": {
+      "u0": 0.14453125,
+      "v0": 0.51953125,
+      "u1": 0.16796875,
+      "v1": 0.54296875,
+      "averageRGB": [
+        0.7658564814814814,
+        0.5558142701525054,
+        0.342755991285403
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/orange-concrete.png": {
+      "u0": 0.20703125,
+      "v0": 0.51953125,
+      "u1": 0.23046875,
+      "v1": 0.54296875,
+      "averageRGB": [
+        0.9209967320261437,
+        0.4111928104575164,
+        0.09746732026143791
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/pink-concrete.png": {
+      "u0": 0.26953125,
+      "v0": 0.51953125,
+      "u1": 0.29296875,
+      "v1": 0.54296875,
+      "averageRGB": [
+        0.9915305010893246,
+        0.4757489106753813,
+        0.8142905773420479
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/purple-concrete.png": {
+      "u0": 0.33203125,
+      "v0": 0.51953125,
+      "u1": 0.35546875,
+      "v1": 0.54296875,
+      "averageRGB": [
+        0.5604166666666667,
+        0.3301130174291939,
+        0.9919117647058824
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/red-concrete.png": {
+      "u0": 0.39453125,
+      "v0": 0.51953125,
+      "u1": 0.41796875,
+      "v1": 0.54296875,
+      "averageRGB": [
+        0.8612745098039216,
+        0.1940427559912854,
+        0.18670343137254902
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/red-mushroom-block.png": {
+      "u0": 0.45703125,
+      "v0": 0.51953125,
+      "u1": 0.48046875,
+      "v1": 0.54296875,
+      "averageRGB": [
+        0.7489855664488018,
+        0.2457584422657952,
+        0.2395016339869281
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/ruby-block.png": {
+      "u0": 0.51953125,
+      "v0": 0.51953125,
+      "u1": 0.54296875,
+      "v1": 0.54296875,
+      "averageRGB": [
+        0.8435729847494553,
+        0.17593273420479302,
+        0.2567333877995643
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/ruby-ore.png": {
+      "u0": 0.58203125,
+      "v0": 0.51953125,
+      "u1": 0.60546875,
+      "v1": 0.54296875,
+      "averageRGB": [
+        0.5291053921568627,
+        0.4230868736383442,
+        0.4364242919389978
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/sand-wet.png": {
+      "u0": 0.64453125,
+      "v0": 0.51953125,
+      "u1": 0.66796875,
+      "v1": 0.54296875,
+      "averageRGB": [
+        0.827464596949891,
+        0.6640931372549019,
+        0.41173066448801743
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/sand.png": {
+      "u0": 0.70703125,
+      "v0": 0.51953125,
+      "u1": 0.73046875,
+      "v1": 0.54296875,
+      "averageRGB": [
+        0.9294117647058824,
+        0.8391476034858387,
+        0.6382216775599129
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/sandstone/+x.png": {
+      "u0": 0.76953125,
+      "v0": 0.51953125,
+      "u1": 0.79296875,
+      "v1": 0.54296875,
+      "averageRGB": [
+        0.9007012527233116,
+        0.7919321895424837,
+        0.5938316993464052
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/sandstone/+y.png": {
+      "u0": 0.83203125,
+      "v0": 0.51953125,
+      "u1": 0.85546875,
+      "v1": 0.54296875,
+      "averageRGB": [
+        0.9322167755991285,
+        0.8427355664488018,
+        0.6418300653594771
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/sandstone/+z.png": {
+      "u0": 0.89453125,
+      "v0": 0.51953125,
+      "u1": 0.91796875,
+      "v1": 0.54296875,
+      "averageRGB": [
+        0.9007012527233116,
+        0.7919321895424837,
+        0.5938316993464052
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/sandstone/-x.png": {
+      "u0": 0.95703125,
+      "v0": 0.51953125,
+      "u1": 0.98046875,
+      "v1": 0.54296875,
+      "averageRGB": [
+        0.9007012527233116,
+        0.7919321895424837,
+        0.5938316993464052
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/sandstone/-y.png": {
+      "u0": 0.01953125,
+      "v0": 0.58203125,
+      "u1": 0.04296875,
+      "v1": 0.60546875,
+      "averageRGB": [
+        0.9022603485838779,
+        0.7938997821350763,
+        0.5953771786492374
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/sandstone/-z.png": {
+      "u0": 0.08203125,
+      "v0": 0.58203125,
+      "u1": 0.10546875,
+      "v1": 0.60546875,
+      "averageRGB": [
+        0.9007012527233116,
+        0.7919321895424837,
+        0.5938316993464052
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/sapphire-block.png": {
+      "u0": 0.14453125,
+      "v0": 0.58203125,
+      "u1": 0.16796875,
+      "v1": 0.60546875,
+      "averageRGB": [
+        0.2956699346405229,
+        0.31090686274509804,
+        0.8262595315904139
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/sapphire-ore.png": {
+      "u0": 0.20703125,
+      "v0": 0.58203125,
+      "u1": 0.23046875,
+      "v1": 0.60546875,
+      "averageRGB": [
+        0.4716503267973856,
+        0.4614242919389978,
+        0.5623502178649237
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/smooth-stone.png": {
+      "u0": 0.26953125,
+      "v0": 0.58203125,
+      "u1": 0.29296875,
+      "v1": 0.60546875,
+      "averageRGB": [
+        0.7639842047930283,
+        0.7639842047930283,
+        0.7639842047930283
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/snow-rocky.png": {
+      "u0": 0.33203125,
+      "v0": 0.58203125,
+      "u1": 0.35546875,
+      "v1": 0.60546875,
+      "averageRGB": [
+        0.8802832244008715,
+        0.9156522331154685,
+        0.9142973856209151
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/snow.png": {
+      "u0": 0.39453125,
+      "v0": 0.58203125,
+      "u1": 0.41796875,
+      "v1": 0.60546875,
+      "averageRGB": [
+        0.9681304466230937,
+        0.9994076797385621,
+        0.9983319716775599
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/spruce-leaves.png": {
+      "u0": 0.45703125,
+      "v0": 0.58203125,
+      "u1": 0.48046875,
+      "v1": 0.60546875,
+      "averageRGB": [
+        0.17631399782135077,
+        0.38357843137254904,
+        0.15237608932461874
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": true
+    },
+    "blocks/spruce-log/+x.png": {
+      "u0": 0.51953125,
+      "v0": 0.58203125,
+      "u1": 0.54296875,
+      "v1": 0.60546875,
+      "averageRGB": [
+        0.3642020697167756,
+        0.16085239651416122,
+        0.11120642701525055
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/spruce-log/+y.png": {
+      "u0": 0.58203125,
+      "v0": 0.58203125,
+      "u1": 0.60546875,
+      "v1": 0.60546875,
+      "averageRGB": [
+        0.5273080065359477,
+        0.2917279411764706,
+        0.17264433551198258
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/spruce-log/+z.png": {
+      "u0": 0.64453125,
+      "v0": 0.58203125,
+      "u1": 0.66796875,
+      "v1": 0.60546875,
+      "averageRGB": [
+        0.3642020697167756,
+        0.16085239651416122,
+        0.11120642701525055
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/spruce-log/-x.png": {
+      "u0": 0.70703125,
+      "v0": 0.58203125,
+      "u1": 0.73046875,
+      "v1": 0.60546875,
+      "averageRGB": [
+        0.3642020697167756,
+        0.16085239651416122,
+        0.11120642701525055
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/spruce-log/-y.png": {
+      "u0": 0.76953125,
+      "v0": 0.58203125,
+      "u1": 0.79296875,
+      "v1": 0.60546875,
+      "averageRGB": [
+        0.5273080065359477,
+        0.2917279411764706,
+        0.17264433551198258
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/spruce-log/-z.png": {
+      "u0": 0.83203125,
+      "v0": 0.58203125,
+      "u1": 0.85546875,
+      "v1": 0.60546875,
+      "averageRGB": [
+        0.3642020697167756,
+        0.16085239651416122,
+        0.11120642701525055
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/spruce-planks-vine.png": {
+      "u0": 0.89453125,
+      "v0": 0.58203125,
+      "u1": 0.91796875,
+      "v1": 0.60546875,
+      "averageRGB": [
+        0.5106685729847494,
+        0.3905705337690632,
+        0.11745642701525055
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/spruce-planks.png": {
+      "u0": 0.95703125,
+      "v0": 0.58203125,
+      "u1": 0.98046875,
+      "v1": 0.60546875,
+      "averageRGB": [
+        0.5996800108932462,
+        0.34869961873638344,
+        0.1761505991285403
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/stone-bricks.png": {
+      "u0": 0.01953125,
+      "v0": 0.64453125,
+      "u1": 0.04296875,
+      "v1": 0.66796875,
+      "averageRGB": [
+        0.509443082788671,
+        0.509443082788671,
+        0.509443082788671
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/stone.png": {
+      "u0": 0.08203125,
+      "v0": 0.64453125,
+      "u1": 0.10546875,
+      "v1": 0.66796875,
+      "averageRGB": [
+        0.5097426470588236,
+        0.5097426470588236,
+        0.5097426470588236
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/water.png": {
+      "u0": 0.14453125,
+      "v0": 0.64453125,
+      "u1": 0.16796875,
+      "v1": 0.66796875,
+      "averageRGB": [
+        0.2718545751633987,
+        0.6162173202614378,
+        0.951729302832244
+      ],
+      "isTransparent": true,
+      "needsAlphaTest": false
+    },
+    "blocks/white-concrete.png": {
+      "u0": 0.20703125,
+      "v0": 0.64453125,
+      "u1": 0.23046875,
+      "v1": 0.66796875,
+      "averageRGB": [
+        0.9770697167755991,
+        0.9770697167755991,
+        0.9770697167755991
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    },
+    "blocks/yellow-concrete.png": {
+      "u0": 0.26953125,
+      "v0": 0.64453125,
+      "u1": 0.29296875,
+      "v1": 0.66796875,
+      "averageRGB": [
+        0.9974060457516339,
+        0.7623910675381264,
+        0.19671840958605663
+      ],
+      "isTransparent": false,
+      "needsAlphaTest": false
+    }
+  },
+  "sourceHash": "555b7546f78928a17bfdd1655500d11bf1aad06e8aab2e3e81522a0434e416b6"
+}
