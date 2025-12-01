@@ -1,6 +1,6 @@
 {
   "name": "@hytopia.com/assets",
-  "version": "0.4.3",
+  "version": "0.4.4",
   "description": "A variety of default assets for HYTOPIA games.",
   "main": "index.js",
   "private": false,
