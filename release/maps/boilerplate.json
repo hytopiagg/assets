@@ -68,7 +68,8 @@
       "name": "oak-leaves",
       "textureUri": "blocks/oak-leaves.png",
       "isCustom": false,
-      "isMultiTexture": false
+      "isMultiTexture": false,
+      "lightLevel": 15
     },
     {
       "id": 11,
@@ -89,7 +90,8 @@
       "name": "spruce-leaves",
       "textureUri": "blocks/spruce-leaves.png",
       "isCustom": false,
-      "isMultiTexture": false
+      "isMultiTexture": false,
+      "lightLevel": 15
     },
     {
       "id": 14,
