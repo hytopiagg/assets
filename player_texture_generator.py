@@ -20,7 +20,8 @@ def rgb_replace_color(image, box, source_color, target_color):
 
     for y in range(region.height):
         for x in range(region.width):
-            if data[x, y][0] == source_color[0] and data[x, y][1] == source_color[1] and data[x, y][2] == source_color[2]:
+            matches_color = data[x, y][0] == source_color[0] and data[x, y][1] == source_color[1] and data[x, y][2] == source_color[2]
+            if matches_color:
                 data[x, y] = target_color
 
     image.paste(region, box, mask=alpha)
@@ -107,8 +108,8 @@ def lambda_handler(event, context):
     eye_color_r = int(eye_color[0:2], 16)
     eye_color_g = int(eye_color[2:4], 16)
     eye_color_b = int(eye_color[4:6], 16)
-    pupils_img = rgb_replace_color(pupils_img, (0, 0, 20, 20), (0, 135, 28), (eye_color_r, eye_color_g, eye_color_b, 255))
-
+    pupils_img = rgb_replace_color(pupils_img, (16, 16, 24, 24), (0, 135, 28), (eye_color_r, eye_color_g, eye_color_b, 255))
+    
     # Overlay images on top of each other
     base_img.paste(im=skin_tone_img, box=(0,0), mask=skin_tone_img)
     base_img.paste(im=clothing_img, box=(0,0), mask=clothing_img)
